@@ -1,0 +1,15 @@
+pandas>=2.2
+pyarrow>=16.0
+scikit-learn>=1.5
+transformers>=4.44
+bertopic>=0.16
+plotly>=5.22
+streamlit>=1.37
+nltk>=3.9
+numpy>=1.26
+requests>=2.32
+google-api-python-client>=2.137
+python-dotenv>=1.0
+pyyaml>=6.0
+joblib>=1.4
+pytest>=8.3
