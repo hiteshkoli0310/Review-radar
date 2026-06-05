@@ -35,7 +35,7 @@ class Settings:
 
 
 def get_project_root() -> Path:
-    return Path(__file__).resolve().parents[4]
+    return Path(__file__).resolve().parents[3]
 
 
 def build_paths() -> Paths:

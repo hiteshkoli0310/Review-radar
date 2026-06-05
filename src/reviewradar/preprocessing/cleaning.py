@@ -2,10 +2,8 @@
 
 from __future__ import annotations
 
-import re
+from reviewradar.preprocessing.text_cleaner import clean_text
 
 
 def clean_comment_text(text: str) -> str:
-    normalized = text.strip().lower()
-    normalized = re.sub(r"\s+", " ", normalized)
-    return normalized
+    return clean_text(text)
