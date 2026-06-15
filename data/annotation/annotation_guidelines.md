@@ -52,6 +52,8 @@ Examples:
 - Purchase Intent
 - Software
 - Hardware
+- Spam
+- Support
 - Other
 
 Choose the main aspect being discussed. If multiple aspects are present, select the
@@ -122,6 +124,22 @@ physical components.
 
 Example: "The joystick feels cheap" -> Hardware
 
+### Spam
+
+Use for promotional content, solicitation, gibberish, irrelevant self-promotion, or
+comments that do not contribute meaningful discussion about the product.
+
+Examples:
+- "Bhai please give steam deck please dedo" -> Spam
+- "Switch 2" -> Spam (if standalone, no evaluation)
+
+### Support
+
+Use for customer service experiences, warranty claims, return/replacement requests,
+technical support interactions, or service quality.
+
+Example: "Anna phone kodi nanu Swiggy" -> Support
+
 ### Other
 
 Use when no listed aspect fits or the comment is too vague to assign a meaningful
@@ -129,9 +147,45 @@ aspect.
 
 Example: "Nice" -> Other
 
-## Notes
+## Allowed Note Labels
 
-- Do not change `comment_text` or `cleaned_comment_text`.
-- Leave `review_notes` blank unless you need to explain ambiguity.
-- Use exact label spelling from the allowed labels.
-- If a comment is spam or unclear, still assign the best sentiment/aspect label you can.
+- Ambiguous
+- Future Demand
+- Language Error
+- Question
+- Unrelated
+
+Choose zero or one note label to add additional context. Leave blank if the comment
+does not fit any note category.
+
+### Ambiguous
+
+Use when the comment's sentiment or aspect is unclear or could reasonably be interpreted multiple ways.
+
+Example: "It's okay I guess" -> Ambiguous
+
+### Future Demand
+
+Use when the comment expresses intent to buy, anticipation for a future product, demand for a feature, or desire for a product release.
+
+Example: "Can't wait for this to launch" -> Future Demand
+
+### Language Error
+
+Use when the comment has broken language (translation artifacts, garbled text, mixed languages) that makes sentiment or aspect classification unreliable.
+
+Example: "dhe ipo poy eduthond van athil irunnn kanunnn" -> Language Error
+
+### Question
+
+Use when the comment is structurally a question — typically maps to Neutral sentiment unless the question implies strong positive or negative framing.
+
+Example: "Does this support 4K?" -> Question
+
+### Unrelated
+
+Use when the comment content is off-topic, does not discuss the product, or is unrelated to the video's subject matter.
+
+Example: "Nice video" -> Unrelated
+
+

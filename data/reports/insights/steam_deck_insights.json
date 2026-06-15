@@ -1,0 +1,391 @@
+{
+  "product": "Steam Deck",
+  "total_comments": 1629,
+  "sentiment_distribution": {
+    "negative": {
+      "count": 749,
+      "pct": 46.0
+    },
+    "neutral": {
+      "count": 558,
+      "pct": 34.3
+    },
+    "positive": {
+      "count": 322,
+      "pct": 19.8
+    }
+  },
+  "competitor_mentions": [
+    {
+      "competitor": "Steam Deck",
+      "mentions": 348
+    },
+    {
+      "competitor": "Switch",
+      "mentions": 157
+    },
+    {
+      "competitor": "Switch 2",
+      "mentions": 88
+    },
+    {
+      "competitor": "Nintendo",
+      "mentions": 56
+    },
+    {
+      "competitor": "Rog Ally",
+      "mentions": 43
+    },
+    {
+      "competitor": "Legion Go",
+      "mentions": 41
+    },
+    {
+      "competitor": "Xbox",
+      "mentions": 36
+    },
+    {
+      "competitor": "Ps5",
+      "mentions": 30
+    },
+    {
+      "competitor": "Ally X",
+      "mentions": 23
+    },
+    {
+      "competitor": "Nintendo Switch",
+      "mentions": 16
+    }
+  ],
+  "sample_comments": {
+    "positive": [
+      "the sound effects remind me of steamvr",
+      "i also heard that if you go there and press that button, this is gonna happen",
+      "i got a nintendo switch 2 for christmas but next christmas im geting a steam deack",
+      "second i heard the ai with the foreign accent i knew the video was gonna go this way \ud83d\ude02",
+      "that's cool bro can you please show what we are supposed to be selecting"
+    ],
+    "neutral": [
+      "well well well.",
+      "the steam deck is available to noone",
+      "kitne ka hai yeah",
+      "whats a universal facebutton \ud83d\ude05",
+      "i always win \ud83c\udfc6"
+    ],
+    "negative": [
+      "i'm going to kill him.",
+      "horrible editing",
+      "oh damn its xboxed",
+      "the worst how-to video ever.",
+      "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong"
+    ]
+  },
+  "topic_insights": {
+    "positive": [
+      {
+        "phrase": "steam",
+        "score": 20.49,
+        "count": 148,
+        "examples": [
+          "the sound effects remind me of steamvr",
+          "i got a nintendo switch 2 for christmas but next christmas im geting a steam deack",
+          "i got the lenovo legion go s on release im liking it a lot more than my steamdeck"
+        ]
+      },
+      {
+        "phrase": "deck",
+        "score": 20.37,
+        "count": 146,
+        "examples": [
+          "i got the lenovo legion go s on release im liking it a lot more than my steamdeck",
+          "sent here by jimmy @deckready great video!",
+          "really good video. great explanation. i got my son a used steam deck for xmas last year, and he loves it. i'm glad i got it last year and not this year, as surely even a used one is going to be significantly more expensive for the reasons you explained."
+        ]
+      },
+      {
+        "phrase": "steam deck",
+        "score": 17.93,
+        "count": 105,
+        "examples": [
+          "really good video. great explanation. i got my son a used steam deck for xmas last year, and he loves it. i'm glad i got it last year and not this year, as surely even a used one is going to be significantly more expensive for the reasons you explained.",
+          "9:11 nahhh i would never switch up on my beloved steam deck oled or sell it",
+          "i want the steam deck so bad man. i wanna play on the go instead of only on my bad laptop"
+        ]
+      },
+      {
+        "phrase": "switch",
+        "score": 15.59,
+        "count": 59,
+        "examples": [
+          "i got a nintendo switch 2 for christmas but next christmas im geting a steam deack",
+          "nah i\u2019ll stick to my nintendo switch 1 and nintendo switch 2",
+          "the biggest upside of the switch is playing with friends."
+        ]
+      },
+      {
+        "phrase": "games",
+        "score": 14.8,
+        "count": 79,
+        "examples": [
+          "steam doesn\u2019t require steam hardware to play games on it, so valve doesn\u2019t sell massive amounts of hardware, and doesn\u2019t get discounts from production companies on that hardware.",
+          "for people playing mostly older games in steam its still the cheapest handheld that has an oled screen. old games run perfectly so its not needed to spend more for a newer device.",
+          "my plan is to step away from the whole pc handheld craze after getting the new xbox ally x20. got a 2tb limited edition sd oled (transluscent design) for $500 off market years ago . now i can have my secondary more heavy hitter pc handheld in oled as well. currently rocking a 2024 ally x for those more intensive games so it would be an (albeit expensive) upgrade regardless. 2 limited editions sounds like a nice series finale with this hobby."
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 13.69,
+        "count": 69,
+        "examples": [
+          "just bought steamdeck oled 512gb for 400$ used here in malaysia. totally worth it!",
+          "i just bought one for $620, i'm proud of that and it's sad",
+          "yeah as cool as the switch 2 is (which i will definitely be getting still) the steam deck is just better overall."
+        ]
+      },
+      {
+        "phrase": "play",
+        "score": 11.73,
+        "count": 84,
+        "examples": [
+          "the biggest upside of the switch is playing with friends.",
+          "steam doesn\u2019t require steam hardware to play games on it, so valve doesn\u2019t sell massive amounts of hardware, and doesn\u2019t get discounts from production companies on that hardware.",
+          "for people playing mostly older games in steam its still the cheapest handheld that has an oled screen. old games run perfectly so its not needed to spend more for a newer device."
+        ]
+      },
+      {
+        "phrase": "got",
+        "score": 10.99,
+        "count": 46,
+        "examples": [
+          "i got a nintendo switch 2 for christmas but next christmas im geting a steam deack",
+          "i got the lenovo legion go s on release im liking it a lot more than my steamdeck",
+          "really good video. great explanation. i got my son a used steam deck for xmas last year, and he loves it. i'm glad i got it last year and not this year, as surely even a used one is going to be significantly more expensive for the reasons you explained."
+        ]
+      },
+      {
+        "phrase": "oled",
+        "score": 10.43,
+        "count": 52,
+        "examples": [
+          "i got my 1tb oled on december :d",
+          "hello everyone i\u2019m vending my steam desk oled.if anyone is interested in taking it off my hands, feel free to drop me a message",
+          "just bought steamdeck oled 512gb for 400$ used here in malaysia. totally worth it!"
+        ]
+      },
+      {
+        "phrase": "like",
+        "score": 9.99,
+        "count": 54,
+        "examples": [
+          "it looks kind of like the nintendo switch when you have a joy horizontally",
+          "the way you're able to spit this tech mumbo jumbo off the dome is like watching eminem freestyle. thanks for the break down dude!",
+          "my plan is to step away from the whole pc handheld craze after getting the new xbox ally x20. got a 2tb limited edition sd oled (transluscent design) for $500 off market years ago . now i can have my secondary more heavy hitter pc handheld in oled as well. currently rocking a 2024 ally x for those more intensive games so it would be an (albeit expensive) upgrade regardless. 2 limited editions sounds like a nice series finale with this hobby."
+        ]
+      }
+    ],
+    "negative": [
+      {
+        "phrase": "steam",
+        "score": 42.38,
+        "count": 253,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "i didn\u2019t even know the steam deck was real",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times."
+        ]
+      },
+      {
+        "phrase": "deck",
+        "score": 38.19,
+        "count": 245,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "i didn\u2019t even know the steam deck was real",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times."
+        ]
+      },
+      {
+        "phrase": "steam deck",
+        "score": 33.09,
+        "count": 182,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "i didn\u2019t even know the steam deck was real",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times."
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 25.49,
+        "count": 120,
+        "examples": [
+          "select what lol? you didnt show the option, it might seem self-explanatory since you said \u201cface buttons\u201d but you shouldn\u2019r just say \u201cthis\u201d like i can read it when the video moves quickly and half the text is cut out lol.",
+          "people are going to vote with their dollars and if they keep buying this stuff even though the prices are jacked up companies don't have any reason to lower there prices. we just need to stop buying this stuff. we don't need it at all everyone take a break for a year. grab a book, go outside, its going to be okay",
+          "i mean, i like a lot about it but the other devices 2nd hand are just superior in terms of raw specs and cost."
+        ]
+      },
+      {
+        "phrase": "price",
+        "score": 24.1,
+        "count": 148,
+        "examples": [
+          "to bulky and price to high my switch was cutting it already",
+          "people are going to vote with their dollars and if they keep buying this stuff even though the prices are jacked up companies don't have any reason to lower there prices. we just need to stop buying this stuff. we don't need it at all everyone take a break for a year. grab a book, go outside, its going to be okay",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times."
+        ]
+      },
+      {
+        "phrase": "games",
+        "score": 21.6,
+        "count": 87,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times.",
+          "yeah but guys - we get to support ai replacing our jobs and getting on universal basic income by paying these prices! i wonder who will be able to afford steam decks, xboxes, playstations, etc., or heck, even steam games, once we're all on ubi?"
+        ]
+      },
+      {
+        "phrase": "like",
+        "score": 19.96,
+        "count": 94,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "select what lol? you didnt show the option, it might seem self-explanatory since you said \u201cface buttons\u201d but you shouldn\u2019r just say \u201cthis\u201d like i can read it when the video moves quickly and half the text is cut out lol.",
+          "i mean, i like a lot about it but the other devices 2nd hand are just superior in terms of raw specs and cost."
+        ]
+      },
+      {
+        "phrase": "switch",
+        "score": 19.01,
+        "count": 73,
+        "examples": [
+          "to bulky and price to high my switch was cutting it already",
+          "remember when nintendo announced that they'll be raising the switch 2 price by $50 in september this year and people called them greedy? but when valve raises the steam deck price by $300 out of nowhere without announcement, it's the economy. i think these people just loves to hate nintendo.",
+          "valve is also greddy too. they could increase their prices gradually not %50 and removing the entry price options. ps5 and rog ally is way cheaper now. also switch 2 only had 50 increase after almost a year."
+        ]
+      },
+      {
+        "phrase": "valve",
+        "score": 18.94,
+        "count": 76,
+        "examples": [
+          "valve doesn't even promote this thing",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times.",
+          "samsung, skh, and micron should be broken up for once again price fixing like they did 20 years ago, but valve needs to stop selling hardware at more-than-loss. they make so much money on steam. only the 64gb model was ever sold at a loss. that and every data center needs to burn to the fucking ground. also, there's no way in hell the steam deck sold out to real consumers at the elevated price. it was all scalpers."
+        ]
+      },
+      {
+        "phrase": "don",
+        "score": 17.47,
+        "count": 95,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "people are going to vote with their dollars and if they keep buying this stuff even though the prices are jacked up companies don't have any reason to lower there prices. we just need to stop buying this stuff. we don't need it at all everyone take a break for a year. grab a book, go outside, its going to be okay",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times."
+        ]
+      }
+    ],
+    "most_discussed": [
+      {
+        "phrase": "steam",
+        "score": 89.16,
+        "count": 497,
+        "examples": [
+          "the steam deck is available to noone",
+          "the sound effects remind me of steamvr",
+          "i just discovered steam deck\ud83d\udc80"
+        ]
+      },
+      {
+        "phrase": "deck",
+        "score": 85.21,
+        "count": 484,
+        "examples": [
+          "the steam deck is available to noone",
+          "i just discovered steam deck\ud83d\udc80",
+          "i loveeee steamdeck"
+        ]
+      },
+      {
+        "phrase": "steam deck",
+        "score": 71.86,
+        "count": 348,
+        "examples": [
+          "the steam deck is available to noone",
+          "i just discovered steam deck\ud83d\udc80",
+          "did u know if u have a pc and install steam app u get og steam witch is just a steam deck on pc\ud83d\ude2e\ud83d\ude2f"
+        ]
+      },
+      {
+        "phrase": "games",
+        "score": 50.02,
+        "count": 198,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times.",
+          "yeah but guys - we get to support ai replacing our jobs and getting on universal basic income by paying these prices! i wonder who will be able to afford steam decks, xboxes, playstations, etc., or heck, even steam games, once we're all on ubi?"
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 49.06,
+        "count": 206,
+        "examples": [
+          "i just discovered steam deck\ud83d\udc80",
+          "did u know if u have a pc and install steam app u get og steam witch is just a steam deck on pc\ud83d\ude2e\ud83d\ude2f",
+          "select what lol? you didnt show the option, it might seem self-explanatory since you said \u201cface buttons\u201d but you shouldn\u2019r just say \u201cthis\u201d like i can read it when the video moves quickly and half the text is cut out lol."
+        ]
+      },
+      {
+        "phrase": "switch",
+        "score": 45.16,
+        "count": 157,
+        "examples": [
+          "i got a nintendo switch 2 for christmas but next christmas im geting a steam deack",
+          "nah i\u2019ll stick to my nintendo switch 1 and nintendo switch 2",
+          "the biggest upside of the switch is playing with friends."
+        ]
+      },
+      {
+        "phrase": "like",
+        "score": 42.41,
+        "count": 173,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "select what lol? you didnt show the option, it might seem self-explanatory since you said \u201cface buttons\u201d but you shouldn\u2019r just say \u201cthis\u201d like i can read it when the video moves quickly and half the text is cut out lol.",
+          "it looks kind of like the nintendo switch when you have a joy horizontally"
+        ]
+      },
+      {
+        "phrase": "price",
+        "score": 37.47,
+        "count": 192,
+        "examples": [
+          "to bulky and price to high my switch was cutting it already",
+          "people are going to vote with their dollars and if they keep buying this stuff even though the prices are jacked up companies don't have any reason to lower there prices. we just need to stop buying this stuff. we don't need it at all everyone take a break for a year. grab a book, go outside, its going to be okay",
+          "yeah makes me sick. i praised valve for the price of the steam deck at launch. now i can't even recommend it to anyone and i don't love the thought of being priced out of buying a replacement if my current one ever dies. i am fully committed to allowing the world to price me out of everything. phones, streaming services, concerts, collectibles, video games , you name it. the price of living a \"normal\" life is going to become only for the truly wealthy and i'm already making moves in my life to cut these things off so that when we do legitimately get priced out of all of it, i won't feel the difference because i've already made my clean break away. pray for me and i pray for all those who struggle financially during these trying times."
+        ]
+      },
+      {
+        "phrase": "play",
+        "score": 36.5,
+        "count": 191,
+        "examples": [
+          "bro my steam deck would be having wind noise 24/7 and a lot of heat and don\u2019t get me started on the games i\u2019m like moving 3 frames per second with every game i played unless if i\u2019m playing pac man or the og donkey kong",
+          "the biggest upside of the switch is playing with friends.",
+          "can you play iggy's egg adventure on it"
+        ]
+      },
+      {
+        "phrase": "video",
+        "score": 31.23,
+        "count": 94,
+        "examples": [
+          "second i heard the ai with the foreign accent i knew the video was gonna go this way \ud83d\ude02",
+          "the worst how-to video ever.",
+          "how do you screw up a 10 second video so badly?"
+        ]
+      }
+    ]
+  }
+}

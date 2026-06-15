@@ -1,0 +1,379 @@
+{
+  "product": "macbook air m5",
+  "total_comments": 1108,
+  "sentiment_distribution": {
+    "neutral": {
+      "count": 731,
+      "pct": 66.0
+    },
+    "negative": {
+      "count": 278,
+      "pct": 25.1
+    },
+    "positive": {
+      "count": 99,
+      "pct": 8.9
+    }
+  },
+  "competitor_mentions": [
+    {
+      "competitor": "Samsung",
+      "mentions": 14
+    },
+    {
+      "competitor": "Switch",
+      "mentions": 8
+    },
+    {
+      "competitor": "Oppo",
+      "mentions": 5
+    },
+    {
+      "competitor": "Vivo",
+      "mentions": 4
+    },
+    {
+      "competitor": "Oneplus",
+      "mentions": 2
+    },
+    {
+      "competitor": "Ps5",
+      "mentions": 1
+    },
+    {
+      "competitor": "Xiaomi",
+      "mentions": 1
+    }
+  ],
+  "sample_comments": {
+    "positive": [
+      "hello nabeel brother aapki video dekhta hun kafi knowledge milta is my question yah is ki i last 2-3 i se content creation chalu did is fitness i and main itne din se mobile per video edit do hun but now i kafi time lag raha is uske liye and output a little achcha chahie because insta per main dalta videos to use bhi kafi good a stay are to main m5 pro for jaaun what jismein i good features milenge and kafi lambe time for use to do is and my pass iphone 17 is to if kuchh difference is to please tell",
+      "watching it from my macbook air m5, midnight color \ud83c\udf89 (1-06-2026)",
+      "i want to buy it for my son it will be a dream come true soon .",
+      "watching it from my macbook air m5, sky blue color \ud83d\udca5\ud83d\udca5",
+      "ek time inko guruji manta was but after meetup understand aya ke jo screen pe dikha that actual nehi hota. geeky ranjit is were most authentic guy in this industry. he says were real truth."
+    ],
+    "neutral": [
+      "got m5 for 101000 yesterday",
+      "m. des. graphics design for con sa macbook to take chhiye, m5 - 16 gb, or 24 gb, 512 gb storage or m4 - 16 gb, 256 gb. please suggest.",
+      "sir gemini ka logo remove to do bhul gaye",
+      "m4 with jana jyada batter is",
+      "m5 bhi 1 lakh k arround mil jata h offers lga k"
+    ],
+    "negative": [
+      "m4 16-512 is almost the same price as m5 base if not more. p.s. i got mba m5 16-512 at 100000, i don't know why he kept mentioning about 35k price difference!\ud83d\ude05",
+      "ios 26.5 is totally a worst upgrade. my iphone battery is getting heated too much",
+      "m4 is not available offline",
+      "i am confuse between m5 air 13 inch vs m4 15 inch they both cost same",
+      "the price difference between m4 (demo unit) vs m5(fresh unit) is not fare comparison in terms of price, rather m4 vs m5 fresh difference would be better. as m4 fresh is around 97k (256 gb) and m5 is 1.19 lakhs (512gb) if we go on to factor the price of 256 gb in m4 than price gap reduces significantly hence m5 would be better. so shelling out 35k or buy a demo unit should have been told in the vid. as demo units are the ones used for demo purposes and 35k is because-of that. used unit."
+    ]
+  },
+  "topic_insights": {
+    "positive": [
+      {
+        "phrase": "macbook",
+        "score": 7.93,
+        "count": 39,
+        "examples": [
+          "watching it from my macbook air m5, midnight color \ud83c\udf89 (1-06-2026)",
+          "watching it from my macbook air m5, sky blue color \ud83d\udca5\ud83d\udca5",
+          "watching it from my macbook air m5, sky blue color \ud83c\udf89"
+        ]
+      },
+      {
+        "phrase": "video",
+        "score": 6.73,
+        "count": 31,
+        "examples": [
+          "hello nabeel brother aapki video dekhta hun kafi knowledge milta is my question yah is ki i last 2-3 i se content creation chalu did is fitness i and main itne din se mobile per video edit do hun but now i kafi time lag raha is uske liye and output a little achcha chahie because insta per main dalta videos to use bhi kafi good a stay are to main m5 pro for jaaun what jismein i good features milenge and kafi lambe time for use to do is and my pass iphone 17 is to if kuchh difference is to please tell",
+          "mac lena chahiye ya window please make a video iam inspired by your vedio before buying iam go first you vedio please make vedio on this topic si actually iam student these vedio are helpfull to buy good products",
+          "please make video on mac mini vs macbook air m5 for student with primary work like video editing and ai development."
+        ]
+      },
+      {
+        "phrase": "air",
+        "score": 5.67,
+        "count": 29,
+        "examples": [
+          "watching it from my macbook air m5, midnight color \ud83c\udf89 (1-06-2026)",
+          "watching it from my macbook air m5, sky blue color \ud83d\udca5\ud83d\udca5",
+          "watching it from my macbook air m5, sky blue color \ud83c\udf89"
+        ]
+      },
+      {
+        "phrase": "m5",
+        "score": 5.16,
+        "count": 27,
+        "examples": [
+          "hello nabeel brother aapki video dekhta hun kafi knowledge milta is my question yah is ki i last 2-3 i se content creation chalu did is fitness i and main itne din se mobile per video edit do hun but now i kafi time lag raha is uske liye and output a little achcha chahie because insta per main dalta videos to use bhi kafi good a stay are to main m5 pro for jaaun what jismein i good features milenge and kafi lambe time for use to do is and my pass iphone 17 is to if kuchh difference is to please tell",
+          "watching it from my macbook air m5, midnight color \ud83c\udf89 (1-06-2026)",
+          "watching it from my macbook air m5, sky blue color \ud83d\udca5\ud83d\udca5"
+        ]
+      },
+      {
+        "phrase": "said",
+        "score": 4.14,
+        "count": 8,
+        "examples": [
+          "enjoyed the video, however i found your constant use of \" that being said\" a bit annoying.",
+          "well that being said, nice video! at the end of the day-",
+          "that being said that was said. thanks for the video! as a complete beginner in an apple ecosystem i find it pretty helpful."
+        ]
+      },
+      {
+        "phrase": "macbook air",
+        "score": 3.87,
+        "count": 18,
+        "examples": [
+          "watching it from my macbook air m5, midnight color \ud83c\udf89 (1-06-2026)",
+          "watching it from my macbook air m5, sky blue color \ud83d\udca5\ud83d\udca5",
+          "watching it from my macbook air m5, sky blue color \ud83c\udf89"
+        ]
+      },
+      {
+        "phrase": "watching",
+        "score": 3.75,
+        "count": 13,
+        "examples": [
+          "watching it from my macbook air m5, midnight color \ud83c\udf89 (1-06-2026)",
+          "watching it from my macbook air m5, sky blue color \ud83d\udca5\ud83d\udca5",
+          "watching it from my macbook air m5, sky blue color \ud83c\udf89"
+        ]
+      },
+      {
+        "phrase": "mac",
+        "score": 3.62,
+        "count": 49,
+        "examples": [
+          "watching it from my macbook air m5, midnight color \ud83c\udf89 (1-06-2026)",
+          "watching it from my macbook air m5, sky blue color \ud83d\udca5\ud83d\udca5",
+          "mac lena chahiye ya window please make a video iam inspired by your vedio before buying iam go first you vedio please make vedio on this topic si actually iam student these vedio are helpfull to buy good products"
+        ]
+      },
+      {
+        "phrase": "air m5",
+        "score": 3.52,
+        "count": 18,
+        "examples": [
+          "watching it from my macbook air m5, midnight color \ud83c\udf89 (1-06-2026)",
+          "watching it from my macbook air m5, sky blue color \ud83d\udca5\ud83d\udca5",
+          "watching it from my macbook air m5, sky blue color \ud83c\udf89"
+        ]
+      },
+      {
+        "phrase": "like",
+        "score": 3.34,
+        "count": 10,
+        "examples": [
+          "can you pls guide abt ios user comparability issue with other parallel systems like android. file sharing, handling becomes a challenge, has that changed over a time? reality want to go for this, but i am android user and love to explore different apps, do file sharing n similar things.my mind is going towards lenovo yoga s7 where i will have free hand and it will be user friendly in the same context.pls guide",
+          "i was thinking about buying it, but the thing is with the college work i do really like gaming so is it good for both,? like gaming with low fps of 40 atleast",
+          "please make video on mac mini vs macbook air m5 for student with primary work like video editing and ai development."
+        ]
+      }
+    ],
+    "negative": [
+      {
+        "phrase": "m5",
+        "score": 14.1,
+        "count": 72,
+        "examples": [
+          "m4 16-512 is almost the same price as m5 base if not more. p.s. i got mba m5 16-512 at 100000, i don't know why he kept mentioning about 35k price difference!\ud83d\ude05",
+          "i am confuse between m5 air 13 inch vs m4 15 inch they both cost same",
+          "the price difference between m4 (demo unit) vs m5(fresh unit) is not fare comparison in terms of price, rather m4 vs m5 fresh difference would be better. as m4 fresh is around 97k (256 gb) and m5 is 1.19 lakhs (512gb) if we go on to factor the price of 256 gb in m4 than price gap reduces significantly hence m5 would be better. so shelling out 35k or buy a demo unit should have been told in the vid. as demo units are the ones used for demo purposes and 35k is because-of that. used unit."
+        ]
+      },
+      {
+        "phrase": "macbook",
+        "score": 13.44,
+        "count": 73,
+        "examples": [
+          "sir i want help because i have macbook air m5 there have manufacturing default which is covered in warranty but company refused i have all the proof and useful information.",
+          "brother my pass macbook air m2 8gb ram 256gb storage is and i mac os sequoia pe chala raha am and my pas tahoe ka update aaya is what i update karu ki not tahoe stable is ki not.",
+          "pls. pick my question for qna. now my paas macbook air m2 13 inch, 8core-10core vala 8gb-512gb ka variant is. recently muje 65k me sell krne ka offer mila is, to me soch raha am ki, m2 sell kr du or july-august me m5 take lu, jab back to school-college ka offer aayega. my paas already ek windows system is jisme me 2-3 month ke liya apna work chala lunga. to now confusion this is ki market me all chijon ki shortage chal rahi is to is saal apple, back to school-college offer nhi laya to? or 2-3 months after m5 ki price bhi increase are gayi to? aapke what views is? or offer aaya to m5 air 130k vala how many price me aa skta is?"
+        ]
+      },
+      {
+        "phrase": "air",
+        "score": 11.62,
+        "count": 74,
+        "examples": [
+          "i am confuse between m5 air 13 inch vs m4 15 inch they both cost same",
+          "i'm struggling badly with 8gb m1 air model due to memory. should i upgrade to 16 or 24gb model? does it make more sense to get m5 air 16/512 for 98k or 24/1tb for 1.36l? does it make more sense to buy base model, use it for 3 years, sell it and buy again base model in sale instead? that way i don't need to deal with replacing battery, keep getting new machines, old tech doesn't get dragged, previous generation macs in sales can be bought for cheap.",
+          "sir i want help because i have macbook air m5 there have manufacturing default which is covered in warranty but company refused i have all the proof and useful information."
+        ]
+      },
+      {
+        "phrase": "video",
+        "score": 8.28,
+        "count": 32,
+        "examples": [
+          "wearing a patek philippe and making youtube video is on next level",
+          "watching the video on my 1.4 year old macbook air m3 16/512 gb and the fact is i still haven\u2019t used even 30% of its potential\ud83d\ude42",
+          "believe it or not, you must also have felt it that all of a sudden everyone started doing good reviews for air(no doubt the product is good). i believe its apples pr team doing these paid partnership and the sad part is no one is mentioning it, so it almost feel like its natural video. it is to increase the sales of apple air model as indians finds value for money. neo is not worth its price and pro feels overpriced and air is in the sweet spot where it does not have all the features of pro but far better than neo. and any first time buyer will go for it if he is not much into tech otherwise windows also offers almost same if not better functionality at the price range. already india is the largest market for their air laptops."
+        ]
+      },
+      {
+        "phrase": "laptop",
+        "score": 7.69,
+        "count": 35,
+        "examples": [
+          "i bought a gaming laptop instead of mac m4 now the thing is i got bored of gaming within 1 week \ud83d\udc80. now i think if i bought a mac i would have got 18hrs battery. still gaming laptop is also top notch for me",
+          "sir, i am a student of class 10th and i do not have any laptop or computer and i also have to study from my online classes, so can you give me this laptop for 1 year, when i complete my 10th, i will return it to you. \ud83e\udd7a\ud83e\udd7a please sir i want to study \ud83d\ude14",
+          "macbooks are useless for all core engineering students (except cs which is going to become extinct in the near future and so called editors ) every engineers know that windows laptop with necessary hardware and features are only best option for us, from starting of macbook series till now , because they can't make such tech ecosystem for us on macbook. so macbooks are only decorative material for those who are not core engineers and blindly addicted to social media which make their thinking about macbook is best and for all."
+        ]
+      },
+      {
+        "phrase": "m4",
+        "score": 7.46,
+        "count": 33,
+        "examples": [
+          "m4 16-512 is almost the same price as m5 base if not more. p.s. i got mba m5 16-512 at 100000, i don't know why he kept mentioning about 35k price difference!\ud83d\ude05",
+          "m4 is not available offline",
+          "i am confuse between m5 air 13 inch vs m4 15 inch they both cost same"
+        ]
+      },
+      {
+        "phrase": "apple",
+        "score": 7.43,
+        "count": 28,
+        "examples": [
+          "bro, now my battery health has become 96%. why is it decreasing so fast when i have completely stopped gaming? and yes, sometimes i do heavy usage, but not regularly. charging habit: i charge 2 to 3 times a day. sometimes the phone heats up while charging. it has been 5 to 6 months since i bought the phone. optimized charging is on, and i also follow the 20% to 80% limit. help me, bro. should i show it to the apple store?\u201d cycle was 249",
+          "sir m4 mil hi nhi rha apple store but and mil ra is to 95k that bhi 256 and 13inch",
+          "pls. pick my question for qna. now my paas macbook air m2 13 inch, 8core-10core vala 8gb-512gb ka variant is. recently muje 65k me sell krne ka offer mila is, to me soch raha am ki, m2 sell kr du or july-august me m5 take lu, jab back to school-college ka offer aayega. my paas already ek windows system is jisme me 2-3 month ke liya apna work chala lunga. to now confusion this is ki market me all chijon ki shortage chal rahi is to is saal apple, back to school-college offer nhi laya to? or 2-3 months after m5 ki price bhi increase are gayi to? aapke what views is? or offer aaya to m5 air 130k vala how many price me aa skta is?"
+        ]
+      },
+      {
+        "phrase": "buy",
+        "score": 7.28,
+        "count": 33,
+        "examples": [
+          "the price difference between m4 (demo unit) vs m5(fresh unit) is not fare comparison in terms of price, rather m4 vs m5 fresh difference would be better. as m4 fresh is around 97k (256 gb) and m5 is 1.19 lakhs (512gb) if we go on to factor the price of 256 gb in m4 than price gap reduces significantly hence m5 would be better. so shelling out 35k or buy a demo unit should have been told in the vid. as demo units are the ones used for demo purposes and 35k is because-of that. used unit.",
+          "i'm struggling badly with 8gb m1 air model due to memory. should i upgrade to 16 or 24gb model? does it make more sense to get m5 air 16/512 for 98k or 24/1tb for 1.36l? does it make more sense to buy base model, use it for 3 years, sell it and buy again base model in sale instead? that way i don't need to deal with replacing battery, keep getting new machines, old tech doesn't get dragged, previous generation macs in sales can be bought for cheap.",
+          "if you are devloper and want to use it for ai/ml projects or even for good web and software development using ai tools , don't buy this buy pro versions cuz this doesn't have fans nd get very hot so ultimately throttles . rest everything is good, it's overall a good device for mediore user"
+        ]
+      },
+      {
+        "phrase": "macbook air",
+        "score": 7.13,
+        "count": 43,
+        "examples": [
+          "sir i want help because i have macbook air m5 there have manufacturing default which is covered in warranty but company refused i have all the proof and useful information.",
+          "brother my pass macbook air m2 8gb ram 256gb storage is and i mac os sequoia pe chala raha am and my pas tahoe ka update aaya is what i update karu ki not tahoe stable is ki not.",
+          "pls. pick my question for qna. now my paas macbook air m2 13 inch, 8core-10core vala 8gb-512gb ka variant is. recently muje 65k me sell krne ka offer mila is, to me soch raha am ki, m2 sell kr du or july-august me m5 take lu, jab back to school-college ka offer aayega. my paas already ek windows system is jisme me 2-3 month ke liya apna work chala lunga. to now confusion this is ki market me all chijon ki shortage chal rahi is to is saal apple, back to school-college offer nhi laya to? or 2-3 months after m5 ki price bhi increase are gayi to? aapke what views is? or offer aaya to m5 air 130k vala how many price me aa skta is?"
+        ]
+      },
+      {
+        "phrase": "use",
+        "score": 6.2,
+        "count": 55,
+        "examples": [
+          "i am confuse between m5 air 13 inch vs m4 15 inch they both cost same",
+          "the price difference between m4 (demo unit) vs m5(fresh unit) is not fare comparison in terms of price, rather m4 vs m5 fresh difference would be better. as m4 fresh is around 97k (256 gb) and m5 is 1.19 lakhs (512gb) if we go on to factor the price of 256 gb in m4 than price gap reduces significantly hence m5 would be better. so shelling out 35k or buy a demo unit should have been told in the vid. as demo units are the ones used for demo purposes and 35k is because-of that. used unit.",
+          "i'm struggling badly with 8gb m1 air model due to memory. should i upgrade to 16 or 24gb model? does it make more sense to get m5 air 16/512 for 98k or 24/1tb for 1.36l? does it make more sense to buy base model, use it for 3 years, sell it and buy again base model in sale instead? that way i don't need to deal with replacing battery, keep getting new machines, old tech doesn't get dragged, previous generation macs in sales can be bought for cheap."
+        ]
+      }
+    ],
+    "most_discussed": [
+      {
+        "phrase": "macbook",
+        "score": 55.77,
+        "count": 267,
+        "examples": [
+          "m. des. graphics design for con sa macbook to take chhiye, m5 - 16 gb, or 24 gb, 512 gb storage or m4 - 16 gb, 256 gb. please suggest.",
+          "sir i want help because i have macbook air m5 there have manufacturing default which is covered in warranty but company refused i have all the proof and useful information.",
+          "brother, please make a video about macbook air m5 vs macbook pro m5 (for - software development, ai, ml, and data science) [note: macbook air m5 with - 10-core cpu, 10-core gpu, 16-core neural engine]"
+        ]
+      },
+      {
+        "phrase": "m5",
+        "score": 50.29,
+        "count": 248,
+        "examples": [
+          "got m5 for 101000 yesterday",
+          "m. des. graphics design for con sa macbook to take chhiye, m5 - 16 gb, or 24 gb, 512 gb storage or m4 - 16 gb, 256 gb. please suggest.",
+          "m5 bhi 1 lakh k arround mil jata h offers lga k"
+        ]
+      },
+      {
+        "phrase": "air",
+        "score": 48.83,
+        "count": 270,
+        "examples": [
+          "i am confuse between m5 air 13 inch vs m4 15 inch they both cost same",
+          "i'm struggling badly with 8gb m1 air model due to memory. should i upgrade to 16 or 24gb model? does it make more sense to get m5 air 16/512 for 98k or 24/1tb for 1.36l? does it make more sense to buy base model, use it for 3 years, sell it and buy again base model in sale instead? that way i don't need to deal with replacing battery, keep getting new machines, old tech doesn't get dragged, previous generation macs in sales can be bought for cheap.",
+          "sir make a video on air m5 vs m4 pro"
+        ]
+      },
+      {
+        "phrase": "video",
+        "score": 40.76,
+        "count": 157,
+        "examples": [
+          "sir make a video on air m5 vs m4 pro",
+          "brother, please make a video about macbook air m5 vs macbook pro m5 (for - software development, ai, ml, and data science) [note: macbook air m5 with - 10-core cpu, 10-core gpu, 16-core neural engine]",
+          "hello nabeel brother aapki video dekhta hun kafi knowledge milta is my question yah is ki i last 2-3 i se content creation chalu did is fitness i and main itne din se mobile per video edit do hun but now i kafi time lag raha is uske liye and output a little achcha chahie because insta per main dalta videos to use bhi kafi good a stay are to main m5 pro for jaaun what jismein i good features milenge and kafi lambe time for use to do is and my pass iphone 17 is to if kuchh difference is to please tell"
+        ]
+      },
+      {
+        "phrase": "m4",
+        "score": 33.32,
+        "count": 119,
+        "examples": [
+          "m. des. graphics design for con sa macbook to take chhiye, m5 - 16 gb, or 24 gb, 512 gb storage or m4 - 16 gb, 256 gb. please suggest.",
+          "m4 with jana jyada batter is",
+          "m4 16-512 is almost the same price as m5 base if not more. p.s. i got mba m5 16-512 at 100000, i don't know why he kept mentioning about 35k price difference!\ud83d\ude05"
+        ]
+      },
+      {
+        "phrase": "pro",
+        "score": 31.56,
+        "count": 194,
+        "examples": [
+          "mereko ipad pro k sath apple pencil pro free not show horaha.\ud83d\ude22",
+          "sir make a video on air m5 vs m4 pro",
+          "sir i want help because i have macbook air m5 there have manufacturing default which is covered in warranty but company refused i have all the proof and useful information."
+        ]
+      },
+      {
+        "phrase": "brother",
+        "score": 31.16,
+        "count": 90,
+        "examples": [
+          "brother, please make a video about macbook air m5 vs macbook pro m5 (for - software development, ai, ml, and data science) [note: macbook air m5 with - 10-core cpu, 10-core gpu, 16-core neural engine]",
+          "hello nabeel brother aapki video dekhta hun kafi knowledge milta is my question yah is ki i last 2-3 i se content creation chalu did is fitness i and main itne din se mobile per video edit do hun but now i kafi time lag raha is uske liye and output a little achcha chahie because insta per main dalta videos to use bhi kafi good a stay are to main m5 pro for jaaun what jismein i good features milenge and kafi lambe time for use to do is and my pass iphone 17 is to if kuchh difference is to please tell",
+          "m4 where mileage brother?"
+        ]
+      },
+      {
+        "phrase": "bro",
+        "score": 27.47,
+        "count": 163,
+        "examples": [
+          "brother, please make a video about macbook air m5 vs macbook pro m5 (for - software development, ai, ml, and data science) [note: macbook air m5 with - 10-core cpu, 10-core gpu, 16-core neural engine]",
+          "hello nabeel brother aapki video dekhta hun kafi knowledge milta is my question yah is ki i last 2-3 i se content creation chalu did is fitness i and main itne din se mobile per video edit do hun but now i kafi time lag raha is uske liye and output a little achcha chahie because insta per main dalta videos to use bhi kafi good a stay are to main m5 pro for jaaun what jismein i good features milenge and kafi lambe time for use to do is and my pass iphone 17 is to if kuchh difference is to please tell",
+          "m4 where mileage brother?"
+        ]
+      },
+      {
+        "phrase": "macbook air",
+        "score": 25.97,
+        "count": 126,
+        "examples": [
+          "sir i want help because i have macbook air m5 there have manufacturing default which is covered in warranty but company refused i have all the proof and useful information.",
+          "brother, please make a video about macbook air m5 vs macbook pro m5 (for - software development, ai, ml, and data science) [note: macbook air m5 with - 10-core cpu, 10-core gpu, 16-core neural engine]",
+          "macbook air m5 92k 16/512 summer sale me mil raha tha"
+        ]
+      },
+      {
+        "phrase": "mac",
+        "score": 25.23,
+        "count": 360,
+        "examples": [
+          "m. des. graphics design for con sa macbook to take chhiye, m5 - 16 gb, or 24 gb, 512 gb storage or m4 - 16 gb, 256 gb. please suggest.",
+          "i'm struggling badly with 8gb m1 air model due to memory. should i upgrade to 16 or 24gb model? does it make more sense to get m5 air 16/512 for 98k or 24/1tb for 1.36l? does it make more sense to buy base model, use it for 3 years, sell it and buy again base model in sale instead? that way i don't need to deal with replacing battery, keep getting new machines, old tech doesn't get dragged, previous generation macs in sales can be bought for cheap.",
+          "sir i want help because i have macbook air m5 there have manufacturing default which is covered in warranty but company refused i have all the proof and useful information."
+        ]
+      }
+    ]
+  }
+}

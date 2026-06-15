@@ -1,0 +1,10 @@
+{
+  "original_rows": 4267,
+  "processed_rows": 3918,
+  "spam_count": 166,
+  "empty_count": 5,
+  "deleted_count": 0,
+  "short_comment_count": 71,
+  "single_word_count": 259,
+  "rows_removed_by_cleaning": 349
+}

@@ -1,0 +1,387 @@
+{
+  "product": "Iphone 17",
+  "total_comments": 716,
+  "sentiment_distribution": {
+    "neutral": {
+      "count": 366,
+      "pct": 51.1
+    },
+    "positive": {
+      "count": 189,
+      "pct": 26.4
+    },
+    "negative": {
+      "count": 161,
+      "pct": 22.5
+    }
+  },
+  "competitor_mentions": [
+    {
+      "competitor": "Samsung",
+      "mentions": 23
+    },
+    {
+      "competitor": "Switch",
+      "mentions": 17
+    },
+    {
+      "competitor": "Iphone 16",
+      "mentions": 12
+    },
+    {
+      "competitor": "16 pro",
+      "mentions": 11
+    },
+    {
+      "competitor": "Vivo",
+      "mentions": 10
+    },
+    {
+      "competitor": "Pixel",
+      "mentions": 6
+    },
+    {
+      "competitor": "Iphone 15",
+      "mentions": 6
+    },
+    {
+      "competitor": "14 pro",
+      "mentions": 6
+    },
+    {
+      "competitor": "Oneplus",
+      "mentions": 5
+    },
+    {
+      "competitor": "15 pro",
+      "mentions": 5
+    }
+  ],
+  "sample_comments": {
+    "positive": [
+      "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+      "today 28/5/2026 my sister bought me an iphone 17 \ud83e\udd70\ud83e\udd70",
+      "green is better for your character.",
+      "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one.",
+      "me watching in iphone 17 pro max"
+    ],
+    "neutral": [
+      "bro ssd connect aavum. files angattum ingattum maataam. blackmagic vech direct video ssd ilek record cheyyam. blackmagic cam indenkill prores access aavum.",
+      "iphone 17 case link",
+      "what is an iphone phobia?",
+      "njan phone vangichu vera level \ud83d\ude0d",
+      "oru krym choichote arelm ithin rpl tharane iphone 17 edkan plan ind ink phone erngeet after 6 month ayile apo ink ipo edthal worth ahno phone"
+    ],
+    "negative": [
+      "after all the exchange card emi, i got 51000 in my hand \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+      "heating is an issue, why no one is reviewing about that, because this is i phone",
+      "why its very heat soonly",
+      "now hard disk is working fine on regular 17 iam using 2tb hard disk on regular iphone 17 512gb",
+      "iphone phobiasil phone edukkalle. they are charged more price like emi processing fee almost 2k and also charge personal insurance . if you want to weiveoff this chage to reliance digital mart. you can save min. 3k for sure."
+    ]
+  },
+  "topic_insights": {
+    "positive": [
+      {
+        "phrase": "iphone",
+        "score": 16.04,
+        "count": 96,
+        "examples": [
+          "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+          "today 28/5/2026 my sister bought me an iphone 17 \ud83e\udd70\ud83e\udd70",
+          "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one."
+        ]
+      },
+      {
+        "phrase": "17",
+        "score": 15.54,
+        "count": 117,
+        "examples": [
+          "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+          "today 28/5/2026 my sister bought me an iphone 17 \ud83e\udd70\ud83e\udd70",
+          "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one."
+        ]
+      },
+      {
+        "phrase": "iphone 17",
+        "score": 11.01,
+        "count": 57,
+        "examples": [
+          "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+          "today 28/5/2026 my sister bought me an iphone 17 \ud83e\udd70\ud83e\udd70",
+          "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one."
+        ]
+      },
+      {
+        "phrase": "pro",
+        "score": 8.98,
+        "count": 56,
+        "examples": [
+          "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one.",
+          "me watching in iphone 17 pro max",
+          "i phone 17 pro max price of what"
+        ]
+      },
+      {
+        "phrase": "phone",
+        "score": 8.82,
+        "count": 120,
+        "examples": [
+          "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+          "today 28/5/2026 my sister bought me an iphone 17 \ud83e\udd70\ud83e\udd70",
+          "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one."
+        ]
+      },
+      {
+        "phrase": "video",
+        "score": 8.76,
+        "count": 26,
+        "examples": [
+          "it's a great feeling to take an iphone 17 and watch this video.",
+          "video starts at 3:00",
+          "i want the lottery guy to return every new iphone series video, just one video is okay. we need more info on the lore of his world lmao"
+        ]
+      },
+      {
+        "phrase": "watching",
+        "score": 7.83,
+        "count": 22,
+        "examples": [
+          "me watching in iphone 17 pro max",
+          "watching on iphone 17",
+          "watching this on iphone 17 in 2026"
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 6.6,
+        "count": 41,
+        "examples": [
+          "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one.",
+          "i want the lottery guy to return every new iphone series video, just one video is okay. we need more info on the lore of his world lmao",
+          "just upgraded from an iphone 12 pro max. \ud83e\udd2f"
+        ]
+      },
+      {
+        "phrase": "watching iphone",
+        "score": 5.44,
+        "count": 0,
+        "examples": []
+      },
+      {
+        "phrase": "best",
+        "score": 5.24,
+        "count": 20,
+        "examples": [
+          "always the guy who had to have the turbo, double x, pro whatever. as new decluttering retiree. i'm in iphone 17 base, 512. i'm finally happy about buying a real best, ego-free iphone for me.",
+          "hands down the best iphone 17 long term review on yt, great job dev \u26a1",
+          "i have iphone 17 and after ios 26.2 my phone is working smooth, few bugs were there but it\u2019s now working great. my battery is still 100% with cycle count of 70. i bought that on the day of diwali so almost 80 days now. i did upgrade from iphone 11 and it\u2019s best purchase of this year."
+        ]
+      }
+    ],
+    "negative": [
+      {
+        "phrase": "phone",
+        "score": 8.91,
+        "count": 83,
+        "examples": [
+          "heating is an issue, why no one is reviewing about that, because this is i phone",
+          "now hard disk is working fine on regular 17 iam using 2tb hard disk on regular iphone 17 512gb",
+          "iphone phobiasil phone edukkalle. they are charged more price like emi processing fee almost 2k and also charge personal insurance . if you want to weiveoff this chage to reliance digital mart. you can save min. 3k for sure."
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "score": 8.78,
+        "count": 48,
+        "examples": [
+          "now hard disk is working fine on regular 17 iam using 2tb hard disk on regular iphone 17 512gb",
+          "iphone phobiasil phone edukkalle. they are charged more price like emi processing fee almost 2k and also charge personal insurance . if you want to weiveoff this chage to reliance digital mart. you can save min. 3k for sure.",
+          "7:00 i have the iphone 17 and would prefer the camera(s) of the pixel 10. so i would not say the iphone 17 is a better deal than a pixel 10."
+        ]
+      },
+      {
+        "phrase": "17",
+        "score": 7.53,
+        "count": 46,
+        "examples": [
+          "now hard disk is working fine on regular 17 iam using 2tb hard disk on regular iphone 17 512gb",
+          "this was super helpful, i have the 13 pro now and looking to upgrade to the 17 and i was kinda worried about missing the telephoto lens by not getting the 17 pro. but i think for the price difference i really dont need it",
+          "7:00 i have the iphone 17 and would prefer the camera(s) of the pixel 10. so i would not say the iphone 17 is a better deal than a pixel 10."
+        ]
+      },
+      {
+        "phrase": "use",
+        "score": 5.06,
+        "count": 34,
+        "examples": [
+          "heating is an issue, why no one is reviewing about that, because this is i phone",
+          "i miss 3d touch a lot, i thought it felt sooo good to use. it just never got adopted at the native ui layer enough.",
+          "i just hate that apple doesn't make 17 plus, cause i got big hands and currently use iphone 16 plus. they should reconsider to make plus again"
+        ]
+      },
+      {
+        "phrase": "apple",
+        "score": 4.69,
+        "count": 16,
+        "examples": [
+          "this time apple mess up in our favor \ud83d\ude02",
+          "i just hate that apple doesn't make 17 plus, cause i got big hands and currently use iphone 16 plus. they should reconsider to make plus again",
+          "apple really pushing 'apple care\" through subtle advertising."
+        ]
+      },
+      {
+        "phrase": "battery",
+        "score": 4.45,
+        "count": 16,
+        "examples": [
+          "after having an iphone 17 since it\u2019s come out, my review differs slightly. battery is worse. terrible even. doesn\u2019t last close to a day. camera doesn\u2019t quickly open. it is buggy and has slow processing speed. it\u2019s like it\u2019s made with cheaper parts.",
+          "got iphone 17 white, in my opinion its a evergreen color and wont be boring with time. got apple care with it, dailyobjects case and screenguard from local shop. but the ios is buggy, and apple intelligence is useless, even siri cant do complex tasks. so yea but other than that best phone. coz i upgraded from iphone xr which i used for 5 years. so im so happy with the phone, its camera, best battery. go with it blindly, love its display. best apple phone with base 256gb storage. dropped it twice which was scary drop, but still not a scratch on screen/back. gonna rock this phone easily for 3 years.",
+          "if anyone brought it whats your battery percentage rn i have this phone around 80days mines drops to 98%rn anyone has this issue?"
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 4.44,
+        "count": 24,
+        "examples": [
+          "i miss 3d touch a lot, i thought it felt sooo good to use. it just never got adopted at the native ui layer enough.",
+          "i disagree with the color options. i dont really like the colors. i have a blue iphone 16 and just got a white iphone 17 too. i like the 16 colors better!",
+          "i just genuinely can\u2019t stop thinking about that damn vapour chamber and extra camera. you\u2019re right, it\u2019s always 1 or 2 features on the pro that\u2019s making you question whether to upgrade or not. i\u2019m typing this from my 11 so i\u2019m probably just gonna get the base anyways but yeah \ud83d\udc80\ud83d\udc80"
+        ]
+      },
+      {
+        "phrase": "ai",
+        "score": 4.01,
+        "count": 35,
+        "examples": [
+          "wow, he looks like. a human ai can't say the same, can it?",
+          "it\u2019s full of ai.",
+          "okay question i have a 13 thinking about upgrading to a 17 should i wait till the 18. ive been having problems since ios 26 update"
+        ]
+      },
+      {
+        "phrase": "iphone 17",
+        "score": 3.98,
+        "count": 21,
+        "examples": [
+          "now hard disk is working fine on regular 17 iam using 2tb hard disk on regular iphone 17 512gb",
+          "7:00 i have the iphone 17 and would prefer the camera(s) of the pixel 10. so i would not say the iphone 17 is a better deal than a pixel 10.",
+          "i disagree with the color options. i dont really like the colors. i have a blue iphone 16 and just got a white iphone 17 too. i like the 16 colors better!"
+        ]
+      },
+      {
+        "phrase": "pro",
+        "score": 3.77,
+        "count": 30,
+        "examples": [
+          "iphone phobiasil phone edukkalle. they are charged more price like emi processing fee almost 2k and also charge personal insurance . if you want to weiveoff this chage to reliance digital mart. you can save min. 3k for sure.",
+          "this was super helpful, i have the 13 pro now and looking to upgrade to the 17 and i was kinda worried about missing the telephoto lens by not getting the 17 pro. but i think for the price difference i really dont need it",
+          "why does all reviews keep forgetting that pro phone have 12gb ram compared to 8gb which may not be a big deal now but can be important to people using who usually upgrade their phones less frequently."
+        ]
+      }
+    ],
+    "most_discussed": [
+      {
+        "phrase": "17",
+        "score": 49.85,
+        "count": 274,
+        "examples": [
+          "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+          "iphone 17 case link",
+          "today 28/5/2026 my sister bought me an iphone 17 \ud83e\udd70\ud83e\udd70"
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "score": 49.14,
+        "count": 230,
+        "examples": [
+          "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+          "iphone 17 case link",
+          "what is an iphone phobia?"
+        ]
+      },
+      {
+        "phrase": "phone",
+        "score": 32.86,
+        "count": 318,
+        "examples": [
+          "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+          "iphone 17 case link",
+          "what is an iphone phobia?"
+        ]
+      },
+      {
+        "phrase": "bro",
+        "score": 30.58,
+        "count": 89,
+        "examples": [
+          "bro ssd connect aavum. files angattum ingattum maataam. blackmagic vech direct video ssd ilek record cheyyam. blackmagic cam indenkill prores access aavum.",
+          "thanks bro\u2764",
+          "bro 17 pro anankilo"
+        ]
+      },
+      {
+        "phrase": "iphone 17",
+        "score": 30.55,
+        "count": 128,
+        "examples": [
+          "my first iphone was 7 and switched to android. then im back to iphone 17 \u2764",
+          "iphone 17 case link",
+          "today 28/5/2026 my sister bought me an iphone 17 \ud83e\udd70\ud83e\udd70"
+        ]
+      },
+      {
+        "phrase": "video",
+        "score": 24.52,
+        "count": 80,
+        "examples": [
+          "bro ssd connect aavum. files angattum ingattum maataam. blackmagic vech direct video ssd ilek record cheyyam. blackmagic cam indenkill prores access aavum.",
+          "first video in my first iphone!\ud83d\ude05",
+          "oru doubt iphone ill video edukan poli enennu paranjille appo photos edukan shokam anennu parayanolla reason ?! 5:34"
+        ]
+      },
+      {
+        "phrase": "pro",
+        "score": 23.45,
+        "count": 132,
+        "examples": [
+          "bro ssd connect aavum. files angattum ingattum maataam. blackmagic vech direct video ssd ilek record cheyyam. blackmagic cam indenkill prores access aavum.",
+          "bro 17 pro anankilo",
+          "used 16 pro max bh:96 or new 17 base ?"
+        ]
+      },
+      {
+        "phrase": "watching",
+        "score": 19.5,
+        "count": 50,
+        "examples": [
+          "me watching in iphone 17 pro max",
+          "watching this on iphone 17\ud83d\udcc8",
+          "watching on iphone 17\u2764"
+        ]
+      },
+      {
+        "phrase": "review",
+        "score": 16.1,
+        "count": 48,
+        "examples": [
+          "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one.",
+          "heating is an issue, why no one is reviewing about that, because this is i phone",
+          "bought new after your review \u2764\ud83d\udc4c"
+        ]
+      },
+      {
+        "phrase": "battery",
+        "score": 16.05,
+        "count": 51,
+        "examples": [
+          "guys my honest review ente iphone 17 nj vaghiyath feb 9 from myg l ninn ahn i had to say this is the worst phone experience ever had. battery drain is very high.15% battery daily oraghi elkumbo korayum apo use chyumbo olla karym parayathe ariyalo. my battery health is still at 100 icare l kanich avr ios reinstall chyth thannu and still there is problem. contacted apple support 3 times avr eth vare problem solve akeela. ente paise poi enn parayndi varm 1l 4k . medikkunnenu munne just reddit oode nokk iphone 17 battery issues ennu. this problem is not so uncommon.arum parayathathahm so please do consider before buying one.",
+          "ee phonin battery health kuravan",
+          "battery pora \ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        ]
+      }
+    ]
+  }
+}

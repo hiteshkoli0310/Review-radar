@@ -1,0 +1,383 @@
+{
+  "product": "macbook neo",
+  "total_comments": 1318,
+  "sentiment_distribution": {
+    "neutral": {
+      "count": 578,
+      "pct": 43.9
+    },
+    "negative": {
+      "count": 553,
+      "pct": 42.0
+    },
+    "positive": {
+      "count": 187,
+      "pct": 14.2
+    }
+  },
+  "competitor_mentions": [
+    {
+      "competitor": "Samsung",
+      "mentions": 13
+    },
+    {
+      "competitor": "Vivo",
+      "mentions": 5
+    },
+    {
+      "competitor": "Switch",
+      "mentions": 4
+    },
+    {
+      "competitor": "Steam Deck",
+      "mentions": 2
+    },
+    {
+      "competitor": "Xiaomi",
+      "mentions": 2
+    },
+    {
+      "competitor": "Pixel",
+      "mentions": 1
+    },
+    {
+      "competitor": "Playstation",
+      "mentions": 1
+    },
+    {
+      "competitor": "Xbox",
+      "mentions": 1
+    }
+  ],
+  "sample_comments": {
+    "positive": [
+      "i bought this and liked it. hoever, my niece needed a laptop, so i gave it to her. apple should have made a cellular version for this.",
+      "the adequate guy who's telling the actual info",
+      "a full setup layout for the neo is mapped out completely in daisy j. neal's manual \ud83d\ude12",
+      "i taught myself to type without looking at the keyboard in my teens. it\u2019s served me well. also, remember the m1 chip was basically the iphone chip. and also came with 8gb.",
+      "there's a third type of user: i own multiple macs including a pro, but am looking for a dedicated machine to write on, one with its own user account an no ability to connect me with the rest of my life \u2014 a machine for doing a single task well and nothing else. the neo seems like a perfect machine for such a use case."
+    ],
+    "neutral": [
+      "what in the ai",
+      "hellow, if you had \u20b960k to spend today, what would you buy?",
+      "just ordered macbook neo",
+      "i am going to buy my 1st laptop,as i have basic works like video watching,book reading, typing etc i only play coc,so which one i have to prefar, anyone please suggest \ud83d\ude42",
+      "imagine buying a motorola laptop \ud83d\ude02\ud83d\ude02\ud83d\ude02"
+    ],
+    "negative": [
+      "this is the perfect travel laptop. if you lose it or somebody steals it, you wouldn't be too sad about it. i like that i'm able to leave it in my car when i travel and not worry too much about somebody stealing it, etc.",
+      "i don't like it. the \"yellow\" is horrible. why does everyone get it",
+      "got my neo 512gb got it for almost a month. i have no issue with it, doing reports and such. it is doing much way better than other window laptops. keyboard lights didnt bother me at all since i can type without looking at the keyboard,",
+      "hmm, i got a sweet neo 512 gb this past weekend and have done two full days worth of work on it. day 1 was set up and writing a lesson plan. pretty simple. day two was creative for my channel. i edited an 8 minute youtube video in 1080p (most of my videos are in 1080p) and iiedited the thumbnail. after i exported the video the computer didn't even heat up. maybe i'm using it wrong but so far.zero issues. export time was about 2 minutes.",
+      "1 or 2 older gen macbook air would still be the best laptop to buy in this budget"
+    ]
+  },
+  "topic_insights": {
+    "positive": [
+      {
+        "phrase": "neo",
+        "score": 11.62,
+        "count": 55,
+        "examples": [
+          "a full setup layout for the neo is mapped out completely in daisy j. neal's manual \ud83d\ude12",
+          "there's a third type of user: i own multiple macs including a pro, but am looking for a dedicated machine to write on, one with its own user account an no ability to connect me with the rest of my life \u2014 a machine for doing a single task well and nothing else. the neo seems like a perfect machine for such a use case.",
+          "me watching this from my macbook neo"
+        ]
+      },
+      {
+        "phrase": "macbook",
+        "score": 10.77,
+        "count": 58,
+        "examples": [
+          "what really impressed me about macbook is how efficient apple made it with a mobile chip. it's running a same chip they have on an iphone. it's only now that windows manufacturers have started to look on this direction",
+          "me watching this from my macbook neo",
+          "i'd get macbook neo easily because i been using windows all my life and i hate it. i really want basic things to work right. basic things like being able to search for apps, a speaker that works, a laptop that doesn't run into ton of driver issues, a laptop that doesn't die after 2 hours of watching youtube, a webcam that i can use for teams meetings and not be embarrassed. i've owned and used many windows laptops: hp pavillian, lg g5 gaming laptop, asus tuf fx5 gaming laptop, lenovo thinkpad, hp zbook. every laptop has so many issues like gpu breaking, system slowing down, drivers failing, battery dying, speaker becoming quieter etc. my current laptop, if i search for a app or file on start menu, the start window turns blank and doesn't show results unless i wait 5 minutes. mind you this is fully modern specs 16gb ram, 1 tb ssd, ryzen 7. hopefully macbook won't have these issues. macbook's spotlight is windows start menu equivalent and it's known to show results in terms of milliseconds."
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 8.04,
+        "count": 31,
+        "examples": [
+          "personally i bought the motobook 60pro. its the same product lenovo sells for 94k under slim 5i tag. lenovo is also the manufacturer and service provider for motobook 60 pro. personally i game on this igpu machine and on low settings and 900 or 1080p resolution it can run any game on playable frame rates. the keyboard is backlit and i cant tell you how many times it is a life saver during night time work. also the biggest wow factor was screen. i had a great ips screen tab that was a league ahead all other ips displays and i used for content watching, ever since i bought this laptop i cant look at my tablet and no feel like its a toy in front of it. the screen is so bright and colorful that its visible in direct sunlight at 12 in the noon, and the colors just pop.",
+          "yeah bro, just gotta say you make such great content and this video really helped me figure out if this computer is worth getting really love the style of your videos. peace out.",
+          "asus and acer have better products at that price with 16gb of ram. and the best part is, is that you can use whatever os you want, not just macos."
+        ]
+      },
+      {
+        "phrase": "pro",
+        "score": 7.9,
+        "count": 48,
+        "examples": [
+          "there's a third type of user: i own multiple macs including a pro, but am looking for a dedicated machine to write on, one with its own user account an no ability to connect me with the rest of my life \u2014 a machine for doing a single task well and nothing else. the neo seems like a perfect machine for such a use case.",
+          "going to buy motobook 60 pro, because i'm a student of data analytics. and after doing my research i found that motobook is the right laptop for me. btw thanks for making this video because no one compared these two laptops till now. love you brother \u2764",
+          "personally i bought the motobook 60pro. its the same product lenovo sells for 94k under slim 5i tag. lenovo is also the manufacturer and service provider for motobook 60 pro. personally i game on this igpu machine and on low settings and 900 or 1080p resolution it can run any game on playable frame rates. the keyboard is backlit and i cant tell you how many times it is a life saver during night time work. also the biggest wow factor was screen. i had a great ips screen tab that was a league ahead all other ips displays and i used for content watching, ever since i bought this laptop i cant look at my tablet and no feel like its a toy in front of it. the screen is so bright and colorful that its visible in direct sunlight at 12 in the noon, and the colors just pop."
+        ]
+      },
+      {
+        "phrase": "laptop",
+        "score": 6.71,
+        "count": 29,
+        "examples": [
+          "i bought this and liked it. hoever, my niece needed a laptop, so i gave it to her. apple should have made a cellular version for this.",
+          "going to buy motobook 60 pro, because i'm a student of data analytics. and after doing my research i found that motobook is the right laptop for me. btw thanks for making this video because no one compared these two laptops till now. love you brother \u2764",
+          "personally i bought the motobook 60pro. its the same product lenovo sells for 94k under slim 5i tag. lenovo is also the manufacturer and service provider for motobook 60 pro. personally i game on this igpu machine and on low settings and 900 or 1080p resolution it can run any game on playable frame rates. the keyboard is backlit and i cant tell you how many times it is a life saver during night time work. also the biggest wow factor was screen. i had a great ips screen tab that was a league ahead all other ips displays and i used for content watching, ever since i bought this laptop i cant look at my tablet and no feel like its a toy in front of it. the screen is so bright and colorful that its visible in direct sunlight at 12 in the noon, and the colors just pop."
+        ]
+      },
+      {
+        "phrase": "apple",
+        "score": 6.37,
+        "count": 22,
+        "examples": [
+          "i bought this and liked it. hoever, my niece needed a laptop, so i gave it to her. apple should have made a cellular version for this.",
+          "what really impressed me about macbook is how efficient apple made it with a mobile chip. it's running a same chip they have on an iphone. it's only now that windows manufacturers have started to look on this direction",
+          "think i'm going to get one. my first mac ever. have used iphone & ipad since iphone 5 & ipad 2. also had an apple watch for some years. never bought a macos machine though. think it's time."
+        ]
+      },
+      {
+        "phrase": "air",
+        "score": 5.87,
+        "count": 25,
+        "examples": [
+          "typing this from a lime green mac neo: if you're a student or have an office/teaching/business/commerce-related job, go for it. it's more than great value for money. feels sturdy and compact, runs super fast, can hold its own with several apps open at the same time. i had a 2015 mac air that was working just fine but because the software didn't update anymore, i had to upgrade, and i thought i'd give this a try. totally worth it.",
+          "this is a very insightful video. i have decided that i would rather go for refurbished macbook air with m4 chip than that lol.",
+          "i have a 2015 macbook air with 8gb of ram, running sequoia 15.7.7 with oclp. i've had it for like 9 years, just replaced the battery myself with ifixit and it runs like new. i was going to upgrade to the neo as am impulse buy, but i'm glad i didn't because i love my 2015 air, it has a backlit keyboard too haha."
+        ]
+      },
+      {
+        "phrase": "love",
+        "score": 5.77,
+        "count": 22,
+        "examples": [
+          "going to buy motobook 60 pro, because i'm a student of data analytics. and after doing my research i found that motobook is the right laptop for me. btw thanks for making this video because no one compared these two laptops till now. love you brother \u2764",
+          "i've motobook and i am pretty much satisfied with the laptop. i've core 7 1 tb version, best part is the display. love that and yeah games on the windows \u2763\ufe0f\ud83d\udd25",
+          "yeah bro, just gotta say you make such great content and this video really helped me figure out if this computer is worth getting really love the style of your videos. peace out."
+        ]
+      },
+      {
+        "phrase": "macbook neo",
+        "score": 5.32,
+        "count": 23,
+        "examples": [
+          "me watching this from my macbook neo",
+          "i'd get macbook neo easily because i been using windows all my life and i hate it. i really want basic things to work right. basic things like being able to search for apps, a speaker that works, a laptop that doesn't run into ton of driver issues, a laptop that doesn't die after 2 hours of watching youtube, a webcam that i can use for teams meetings and not be embarrassed. i've owned and used many windows laptops: hp pavillian, lg g5 gaming laptop, asus tuf fx5 gaming laptop, lenovo thinkpad, hp zbook. every laptop has so many issues like gpu breaking, system slowing down, drivers failing, battery dying, speaker becoming quieter etc. my current laptop, if i search for a app or file on start menu, the start window turns blank and doesn't show results unless i wait 5 minutes. mind you this is fully modern specs 16gb ram, 1 tb ssd, ryzen 7. hopefully macbook won't have these issues. macbook's spotlight is windows start menu equivalent and it's known to show results in terms of milliseconds.",
+          "i saw two elderly women playing with the lime colored macbook neo at the apple store yesterday, so yes, grandmas love these little things haha."
+        ]
+      },
+      {
+        "phrase": "good",
+        "score": 5.29,
+        "count": 20,
+        "examples": [
+          "hello man. the video is good but almost every youtuber including you considering neo ar 60k it's 70k brother without credit card some months ago it came in 62k thats occassional. same pinch for moto this costs 70k",
+          "bro got everything but a good mic.",
+          "as of me using it right now its good but better if you get the 699$ one mine is the 699$ one i think y'all should get it and it has more than 120 fps in minecraft java but not touchscreen tho"
+        ]
+      }
+    ],
+    "negative": [
+      {
+        "phrase": "macbook",
+        "score": 23.32,
+        "count": 123,
+        "examples": [
+          "1 or 2 older gen macbook air would still be the best laptop to buy in this budget",
+          "please keep making such videos covering windows competition to the macbook neo the competition is very healthy for everyone and people should be aware",
+          "why dont you use decible meter to check for loudness set speaker volume to 100% open decible app on your phone check for both macbook and motobook if its 50 we can play same sound in our system and know this is max loudness for this system"
+        ]
+      },
+      {
+        "phrase": "laptop",
+        "score": 21.51,
+        "count": 118,
+        "examples": [
+          "this is the perfect travel laptop. if you lose it or somebody steals it, you wouldn't be too sad about it. i like that i'm able to leave it in my car when i travel and not worry too much about somebody stealing it, etc.",
+          "got my neo 512gb got it for almost a month. i have no issue with it, doing reports and such. it is doing much way better than other window laptops. keyboard lights didnt bother me at all since i can type without looking at the keyboard,",
+          "1 or 2 older gen macbook air would still be the best laptop to buy in this budget"
+        ]
+      },
+      {
+        "phrase": "neo",
+        "score": 20.73,
+        "count": 95,
+        "examples": [
+          "got my neo 512gb got it for almost a month. i have no issue with it, doing reports and such. it is doing much way better than other window laptops. keyboard lights didnt bother me at all since i can type without looking at the keyboard,",
+          "hmm, i got a sweet neo 512 gb this past weekend and have done two full days worth of work on it. day 1 was set up and writing a lesson plan. pretty simple. day two was creative for my channel. i edited an 8 minute youtube video in 1080p (most of my videos are in 1080p) and iiedited the thumbnail. after i exported the video the computer didn't even heat up. maybe i'm using it wrong but so far.zero issues. export time was about 2 minutes.",
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat"
+        ]
+      },
+      {
+        "phrase": "apple",
+        "score": 19.16,
+        "count": 85,
+        "examples": [
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat",
+          "the thing with the macbook neo is the precident it sets for other laptop manufacturers, just like when apple introduced air pods and removed the headphone jack it changed the industry adding more e-waste adding an extra thing to charge while getting consumers to spend more and with it being basically non repairable, the neo shows that a tightly integrated laptop with no upgradability no repairabilty and again basically e waste when anything goes wrong is the way forward and without apple care forget about like a resonably priced screen replacement so again increasing the price of the neo.",
+          "\"the most compromized, cheapest, most nerfed laptop still wins in the essentials, the fundamentals\" no. it doesn't. how is a laptop with 8gb ram and the worst ports \"nailing the basics\"? do you open different applications for work, and use external monitors and peripherals? or sit around and be \"wowed\" by the theoretical single-core performance (handicapped by low ram)? or talk about \"ram efficiency\" because it does basic tasks with \"just\" 8gb ram (while still failing to do anything that actually needs more than 8gb) how is a laptop without backlit keyboard, no touchid \"nailing the basics\"? do you use a laptop to type articles, and browse in various situations (where backlight and convenience of fingerprint/face is relevant)? or do you \"feel\" the excellent trackpad and marvel at the \"solid\" materials without getting to work? and just fyi, if my cheap plastic, poorly maintained hp victus could last 5+ years, anything else literally will. chuwi laptops have done this exact thing for 3-4 years at this point, and they never got any attention. it is just apple's blind fandom which dismisses everything windows and windows laptops do well, and over-glorifies what apple does well. let me make one thing clear - i am not saying that the macbook neo is bad, but it is absolutely blindly worshipped and too overhyped just because it has the apple logo."
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 15.04,
+        "count": 72,
+        "examples": [
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat",
+          "if you are engineer you are probably stuck with windows because most of the software is build in the 90s and companies just build on that old software instead of designing it anew",
+          "if someone says a non backlit keyboard is better than a backlit keyboard with more key travel, than he is just being biased. backlit is a fundamental feature on a laptop which you operate with a keyboard only. if you cant see it in the dark, might as well advertise it as day use only."
+        ]
+      },
+      {
+        "phrase": "windows",
+        "score": 14.94,
+        "count": 61,
+        "examples": [
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat",
+          "please keep making such videos covering windows competition to the macbook neo the competition is very healthy for everyone and people should be aware",
+          "if you are engineer you are probably stuck with windows because most of the software is build in the 90s and companies just build on that old software instead of designing it anew"
+        ]
+      },
+      {
+        "phrase": "air",
+        "score": 14.86,
+        "count": 85,
+        "examples": [
+          "1 or 2 older gen macbook air would still be the best laptop to buy in this budget",
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat",
+          "the thing with the macbook neo is the precident it sets for other laptop manufacturers, just like when apple introduced air pods and removed the headphone jack it changed the industry adding more e-waste adding an extra thing to charge while getting consumers to spend more and with it being basically non repairable, the neo shows that a tightly integrated laptop with no upgradability no repairabilty and again basically e waste when anything goes wrong is the way forward and without apple care forget about like a resonably priced screen replacement so again increasing the price of the neo."
+        ]
+      },
+      {
+        "phrase": "like",
+        "score": 13.79,
+        "count": 68,
+        "examples": [
+          "this is the perfect travel laptop. if you lose it or somebody steals it, you wouldn't be too sad about it. i like that i'm able to leave it in my car when i travel and not worry too much about somebody stealing it, etc.",
+          "i don't like it. the \"yellow\" is horrible. why does everyone get it",
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat"
+        ]
+      },
+      {
+        "phrase": "better",
+        "score": 13.34,
+        "count": 57,
+        "examples": [
+          "got my neo 512gb got it for almost a month. i have no issue with it, doing reports and such. it is doing much way better than other window laptops. keyboard lights didnt bother me at all since i can type without looking at the keyboard,",
+          "if someone says a non backlit keyboard is better than a backlit keyboard with more key travel, than he is just being biased. backlit is a fundamental feature on a laptop which you operate with a keyboard only. if you cant see it in the dark, might as well advertise it as day use only.",
+          "don't you think that m1 is a better choice if you are willing to spend 60-65k on a mac \ud83e\uddd0"
+        ]
+      },
+      {
+        "phrase": "buy",
+        "score": 13.15,
+        "count": 65,
+        "examples": [
+          "1 or 2 older gen macbook air would still be the best laptop to buy in this budget",
+          "anyone who wants to connect to 2 or 3 monitors at once, is not, buying a 60k laptop\ud83d\ude02\ud83d\ude02",
+          "i mean if macbook neo was the stepping stone for these \"budget laptops\" they are already good to buy at that price point. especially if it has 1 tb of space."
+        ]
+      }
+    ],
+    "most_discussed": [
+      {
+        "phrase": "neo",
+        "score": 55.29,
+        "count": 221,
+        "examples": [
+          "a full setup layout for the neo is mapped out completely in daisy j. neal's manual \ud83d\ude12",
+          "got my neo 512gb got it for almost a month. i have no issue with it, doing reports and such. it is doing much way better than other window laptops. keyboard lights didnt bother me at all since i can type without looking at the keyboard,",
+          "hmm, i got a sweet neo 512 gb this past weekend and have done two full days worth of work on it. day 1 was set up and writing a lesson plan. pretty simple. day two was creative for my channel. i edited an 8 minute youtube video in 1080p (most of my videos are in 1080p) and iiedited the thumbnail. after i exported the video the computer didn't even heat up. maybe i'm using it wrong but so far.zero issues. export time was about 2 minutes."
+        ]
+      },
+      {
+        "phrase": "macbook",
+        "score": 55.17,
+        "count": 252,
+        "examples": [
+          "1 or 2 older gen macbook air would still be the best laptop to buy in this budget",
+          "just ordered macbook neo",
+          "please keep making such videos covering windows competition to the macbook neo the competition is very healthy for everyone and people should be aware"
+        ]
+      },
+      {
+        "phrase": "laptop",
+        "score": 45.13,
+        "count": 201,
+        "examples": [
+          "i bought this and liked it. hoever, my niece needed a laptop, so i gave it to her. apple should have made a cellular version for this.",
+          "this is the perfect travel laptop. if you lose it or somebody steals it, you wouldn't be too sad about it. i like that i'm able to leave it in my car when i travel and not worry too much about somebody stealing it, etc.",
+          "got my neo 512gb got it for almost a month. i have no issue with it, doing reports and such. it is doing much way better than other window laptops. keyboard lights didnt bother me at all since i can type without looking at the keyboard,"
+        ]
+      },
+      {
+        "phrase": "apple",
+        "score": 38.07,
+        "count": 135,
+        "examples": [
+          "i bought this and liked it. hoever, my niece needed a laptop, so i gave it to her. apple should have made a cellular version for this.",
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat",
+          "the thing with the macbook neo is the precident it sets for other laptop manufacturers, just like when apple introduced air pods and removed the headphone jack it changed the industry adding more e-waste adding an extra thing to charge while getting consumers to spend more and with it being basically non repairable, the neo shows that a tightly integrated laptop with no upgradability no repairabilty and again basically e waste when anything goes wrong is the way forward and without apple care forget about like a resonably priced screen replacement so again increasing the price of the neo."
+        ]
+      },
+      {
+        "phrase": "good",
+        "score": 35.2,
+        "count": 112,
+        "examples": [
+          "i mean if macbook neo was the stepping stone for these \"budget laptops\" they are already good to buy at that price point. especially if it has 1 tb of space.",
+          "i purchased motobook with core i5 , its not the ultra series of intel, but core series. i still would go for mac air instead of mac neo as neo is still lacking longterm usability. moto is good , upgradable ram. feels handy and chipset and os is not new , its tested for most softwares out there",
+          "i wish the macbook neo came out before i bought my laptop, i have a acer nitro v15 r5 6600h rtx 3050 6gb which i got for 53k, i love my laptop no doubt about it, i just wish the battery was good, it barely survives 3 hours without a charger with light to normal usage. my laptop came with a defect, oddly the screen is glossy not matte which i havent noticed on any other gaming laptop at this price range, not a complaint, i think it looks better. everything looks better on a glossy screen than on a matte one. back to topic, my battery is ass."
+        ]
+      },
+      {
+        "phrase": "bro",
+        "score": 34.42,
+        "count": 122,
+        "examples": [
+          "going to buy motobook 60 pro, because i'm a student of data analytics. and after doing my research i found that motobook is the right laptop for me. btw thanks for making this video because no one compared these two laptops till now. love you brother \u2764",
+          "bro here my opinion with keyboard differs as keyboard is truly subjective 1. some prefer deep travel like motobook 2. while some are fine with lower travel like mac this varies on the basis of key feedback, touch typing speed etc.\ud83d\ude05",
+          "idk why neo is much needed to praise here.? i prefer motobook here anyday. oled screen?! and 1tb with 16gb at that price. that's a steal bro. neo needs two improvement to win argument here. ram atleast 12gb, backlit keyboard. and if possible no extra charge for fingerprint id, keep 512gb level 79k is decent. if neo becomes after effects capable. it brings whole new conversation for neo. i'll give it to moto here (i own macbook air m4 btw, neo is way too inferior product. i'll recommend save money and buy m5 air to anyone considering neo anyday)."
+        ]
+      },
+      {
+        "phrase": "air",
+        "score": 33.69,
+        "count": 161,
+        "examples": [
+          "1 or 2 older gen macbook air would still be the best laptop to buy in this budget",
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat",
+          "the thing with the macbook neo is the precident it sets for other laptop manufacturers, just like when apple introduced air pods and removed the headphone jack it changed the industry adding more e-waste adding an extra thing to charge while getting consumers to spend more and with it being basically non repairable, the neo shows that a tightly integrated laptop with no upgradability no repairabilty and again basically e waste when anything goes wrong is the way forward and without apple care forget about like a resonably priced screen replacement so again increasing the price of the neo."
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 30.74,
+        "count": 120,
+        "examples": [
+          "just wanted to add few points here it's honestly terrible comparison he should have actually compared to a snapdragon based laptop like samsung book that smokes mac neo in day to day battery life , if you are in india do not go for mac neo (wait for windows snapdragon with haptic touchpad nd scissor keyboard ) lemme explain y, i have been windows user my entire life, like i used to have a hp pavillion with fingerprint. now my office gave me a mac and trust me it has lots of cons! , the compact looks cute but is too small to actually multitask like coding and seeing utube side by side. u can always purchase a hello fingerprint scanner at 2k for any windows lappy for instant unlock. on neo every damn login requires a irritating long password to unlock in the name of security. ( so i am only hating on neo not on air). the screen is soo glossy it is super awesome to look at the lock screen full of vibrant nature image. however once go to nearest apple store and open vs code and use it dark mode u will realise y apple sells seperate textured display. on dark mode most of the apps look like a damn mirror under office light. i am forced to use light mode becoz of this. for context even budget windows laptops cone with matte finish for functionality. that being said thanks to mac neo other companies finally focused on budget segment . that being said if u have iphone mac neo is hard to beat",
+          "just ordered macbook neo",
+          "if you are engineer you are probably stuck with windows because most of the software is build in the 90s and companies just build on that old software instead of designing it anew"
+        ]
+      },
+      {
+        "phrase": "video",
+        "score": 29.82,
+        "count": 115,
+        "examples": [
+          "hmm, i got a sweet neo 512 gb this past weekend and have done two full days worth of work on it. day 1 was set up and writing a lesson plan. pretty simple. day two was creative for my channel. i edited an 8 minute youtube video in 1080p (most of my videos are in 1080p) and iiedited the thumbnail. after i exported the video the computer didn't even heat up. maybe i'm using it wrong but so far.zero issues. export time was about 2 minutes.",
+          "i am going to buy my 1st laptop,as i have basic works like video watching,book reading, typing etc i only play coc,so which one i have to prefar, anyone please suggest \ud83d\ude42",
+          "going to buy motobook 60 pro, because i'm a student of data analytics. and after doing my research i found that motobook is the right laptop for me. btw thanks for making this video because no one compared these two laptops till now. love you brother \u2764"
+        ]
+      },
+      {
+        "phrase": "buy",
+        "score": 26.53,
+        "count": 118,
+        "examples": [
+          "hellow, if you had \u20b960k to spend today, what would you buy?",
+          "1 or 2 older gen macbook air would still be the best laptop to buy in this budget",
+          "i am going to buy my 1st laptop,as i have basic works like video watching,book reading, typing etc i only play coc,so which one i have to prefar, anyone please suggest \ud83d\ude42"
+        ]
+      }
+    ]
+  }
+}

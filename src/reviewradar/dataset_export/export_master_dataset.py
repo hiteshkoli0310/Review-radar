@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 def export_master_dataset(master_dataset: pd.DataFrame, output_path: Path) -> Path:
     """Save a master dataset as CSV."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    master_dataset.to_csv(output_path, index=False, encoding="utf-8")
+    master_dataset.to_csv(output_path, index=False, encoding="utf-8-sig")
     logger.info("Saved master dataset to %s", output_path)
     return output_path
 

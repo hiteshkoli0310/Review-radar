@@ -30,6 +30,16 @@ def run() -> None:
     processed_frames: list[pd.DataFrame] = []
     output_paths: list[Path] = []
     original_rows = 0
+    aggregate_report = {
+        "original_rows": 0,
+        "processed_rows": 0,
+        "spam_count": 0,
+        "empty_count": 0,
+        "deleted_count": 0,
+        "short_comment_count": 0,
+        "single_word_count": 0,
+        "rows_removed_by_cleaning": 0,
+    }
     for input_path in input_paths:
         output_path = build_processed_comments_output_path(
             input_path,
@@ -38,16 +48,18 @@ def run() -> None:
         print(f"Input dataset: {input_path}")
         comments = load_parquet(input_path)
         processed_comments = preprocess_comments(comments)
+        file_report = build_preprocessing_report(processed_comments, original_rows=len(comments))
         save_parquet(processed_comments, output_path)
         processed_frames.append(processed_comments)
         output_paths.append(output_path)
         original_rows += len(comments)
+        for key in aggregate_report:
+            aggregate_report[key] += file_report[key]
 
     combined_processed_comments = pd.concat(processed_frames, ignore_index=True)
-    report = build_preprocessing_report(
-        combined_processed_comments,
-        original_rows=original_rows,
-    )
+    aggregate_report["original_rows"] = original_rows
+    aggregate_report["processed_rows"] = len(combined_processed_comments)
+    report = aggregate_report
     save_preprocessing_report(report, report_path)
 
     _print_summary(report, output_paths, report_path)

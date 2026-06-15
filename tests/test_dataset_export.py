@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from pathlib import Path
+
 import pandas as pd
 
 from reviewradar.dataset_export.dataset_builder import (
@@ -10,6 +12,7 @@ from reviewradar.dataset_export.dataset_builder import (
     load_parquet_files,
     remove_duplicate_comments,
 )
+from reviewradar.dataset_export.export_master_dataset import export_master_dataset
 
 
 def test_discover_and_load_parquet_files_includes_future_products(tmp_path) -> None:
@@ -56,7 +59,10 @@ def test_build_master_dataset_preserves_comment_rows_and_maps_required_columns()
             "is_empty": [False, False, False],
             "is_deleted": [False, False, False],
             "is_short_comment": [False, False, False],
+            "is_single_word": [False, False, False],
             "is_spam": [False, False, False],
+            "is_removed_by_cleaning": [False, False, False],
+            "is_translated": [False, False, False],
             "updated_at": ["2026-01-03T00:00:00Z", None, None],
         }
     )
@@ -69,6 +75,60 @@ def test_build_master_dataset_preserves_comment_rows_and_maps_required_columns()
     assert master.loc[0, "video_like_count"] == 5
     assert master.loc[0, "comment_like_count"] == 1
     assert master.loc[2, "video_title"] == "Future title"
+
+
+def test_build_master_dataset_preserves_is_short_comment_column() -> None:
+    videos = pd.DataFrame(
+        {
+            "video_id": ["v1"],
+            "product_query": ["iphone_17"],
+            "title": ["iPhone review"],
+            "video_url": ["https://youtube.com/watch?v=v1"],
+            "channel_name": ["A"],
+            "published_at": ["2026-01-01T00:00:00Z"],
+            "view_count": [100],
+            "comment_count": [10],
+            "like_count": [5],
+        }
+    )
+    comments = pd.DataFrame(
+        {
+            "product_query": ["iphone_17"],
+            "video_id": ["v1"],
+            "video_title": ["old title"],
+            "video_url": ["old url"],
+            "comment_id": ["c1"],
+            "author_name": ["x"],
+            "comment_text": ["good"],
+            "cleaned_comment_text": ["good"],
+            "like_count": [1],
+            "detected_language": ["english"],
+            "is_empty": [False],
+            "is_deleted": [False],
+            "is_short_comment": [True],
+            "is_single_word": [False],
+            "is_spam": [False],
+            "is_removed_by_cleaning": [False],
+            "is_translated": [False],
+            "updated_at": [None],
+        }
+    )
+
+    master = build_master_dataset(videos, comments)
+
+    assert "is_short_comment" in master.columns
+    assert bool(master.loc[0, "is_short_comment"]) is True
+    assert "is_single_word" in master.columns
+    assert "is_removed_by_cleaning" in master.columns
+    assert "is_translated" in master.columns
+
+
+def test_export_master_dataset_includes_bom(tmp_path) -> None:
+    master = pd.DataFrame({"comment_id": ["c1"], "comment_text": ["test"]})
+    output_path = tmp_path / "export.csv"
+    export_master_dataset(master, output_path)
+    raw = output_path.read_bytes()
+    assert raw[:3] == b"\xef\xbb\xbf", "CSV should start with UTF-8 BOM"
 
 
 def test_remove_duplicate_comments_keeps_first_copy() -> None:

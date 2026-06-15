@@ -30,7 +30,10 @@ MASTER_DATASET_COLUMNS = [
     "is_empty",
     "is_deleted",
     "is_short_comment",
+    "is_single_word",
     "is_spam",
+    "is_removed_by_cleaning",
+    "is_translated",
     "updated_at",
 ]
 
@@ -142,8 +145,11 @@ def _prepare_videos(videos: pd.DataFrame) -> pd.DataFrame:
     return prepared[[column for column in columns if column in prepared.columns]]
 
 
+_COALESCE_COLUMNS = ["product_query", "video_title", "video_url", "published_at"]
+
+
 def _coalesce_merged_columns(merged: pd.DataFrame) -> pd.DataFrame:
-    for column in ["product_query", "video_title", "video_url", "published_at"]:
+    for column in _COALESCE_COLUMNS:
         comment_column = f"{column}_comment"
         video_column = f"{column}_video"
         if video_column in merged.columns and comment_column in merged.columns:
@@ -154,10 +160,8 @@ def _coalesce_merged_columns(merged: pd.DataFrame) -> pd.DataFrame:
             merged[column] = merged[comment_column]
 
     drop_columns = [
-        column
-        for column in merged.columns
-        if column.endswith("_comment") or column.endswith("_video")
-    ]
+        f"{col}_comment" for col in _COALESCE_COLUMNS if f"{col}_comment" in merged.columns
+    ] + [f"{col}_video" for col in _COALESCE_COLUMNS if f"{col}_video" in merged.columns]
     return merged.drop(columns=drop_columns)
 
 

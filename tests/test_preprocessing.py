@@ -26,6 +26,12 @@ def test_clean_text_handles_unicode_whitespace_and_repeated_punctuation() -> Non
     assert clean_text(text) == "great phone? amazing!"
 
 
+def test_clean_text_repairs_common_mojibake() -> None:
+    mojibake = "für mixtape 🙂 spaß".encode("utf-8").decode("latin-1")
+
+    assert clean_text(mojibake) == "für mixtape 🙂 spaß"
+
+
 def test_spam_detector_flags_urls_promotions_emoji_and_repeated_characters() -> None:
     assert is_spam_comment("visit https://a.com and https://b.com")
     assert is_spam_comment("Subscribe to my channel for giveaway")
@@ -34,32 +40,56 @@ def test_spam_detector_flags_urls_promotions_emoji_and_repeated_characters() -> 
     assert not is_spam_comment("not bad, good camera")
 
 
-def test_preprocess_comments_preserves_rows_and_adds_expected_columns() -> None:
+def test_spam_detector_flags_solicitation_keywords() -> None:
+    assert is_spam_comment("Bhai please give steam deck please dedo")
+    assert is_spam_comment("Gameloop sa pubg mobile kalka dikao plz")
+    assert is_spam_comment("Anna phone kodi nanu Swiggy")
+    assert is_spam_comment("Brother 16 plus comparison kudunga brother")
+    assert is_spam_comment("unboxing video madi bro")
+    assert not is_spam_comment("can you compare iPhone 16 vs 17")
+
+
+def test_preprocess_comments_filters_low_value_rows_and_adds_expected_columns() -> None:
     frame = pd.DataFrame(
         {
-            "comment_id": ["c1", "c2", "c3", "c4", "c5"],
+            "comment_id": ["c1", "c2", "c3", "c4", "c5", "c6", "c7"],
             "comment_text": [
                 "Great phone!!!!",
                 "",
                 "[deleted]",
                 "ok",
                 "visit https://a.com https://b.com",
+                "Switch",
+                "https://youtube.com/shorts/HWHd5mjYmto?feature=share",
             ],
-            "detected_language": ["english", "unknown", "english", "english", "english"],
+            "detected_language": [
+                "english",
+                "unknown",
+                "english",
+                "english",
+                "english",
+                "english",
+                "english",
+            ],
         }
     )
     original_columns = list(frame.columns)
 
     processed = preprocess_comments(frame)
 
-    assert len(processed) == len(frame)
+    assert len(processed) == 1
     assert original_columns == list(frame.columns)
     assert processed.loc[0, "cleaned_comment_text"] == "great phone!"
-    assert processed.loc[1, "is_empty"]
-    assert processed.loc[2, "is_deleted"]
-    assert processed.loc[3, "is_short_comment"]
-    assert processed.loc[4, "is_spam"]
+    assert not bool(processed.loc[0, "is_empty"])
+    assert not bool(processed.loc[0, "is_deleted"])
+    assert not bool(processed.loc[0, "is_short_comment"])
+    assert not bool(processed.loc[0, "is_single_word"])
+    assert not bool(processed.loc[0, "is_spam"])
     assert "detected_language" in processed.columns
+    assert processed.attrs["preprocessing_summary"]["empty_count"] == 2
+    assert processed.attrs["preprocessing_summary"]["deleted_count"] == 1
+    assert processed.attrs["preprocessing_summary"]["single_word_count"] == 4
+    assert processed.attrs["preprocessing_summary"]["spam_count"] == 2
 
 
 def test_preprocessing_report_counts_flags() -> None:
@@ -69,6 +99,7 @@ def test_preprocessing_report_counts_flags() -> None:
             "is_empty": [False, True, False],
             "is_deleted": [False, False, True],
             "is_short_comment": [False, True, True],
+            "is_single_word": [False, True, True],
         }
     )
 
@@ -81,6 +112,8 @@ def test_preprocessing_report_counts_flags() -> None:
         "empty_count": 1,
         "deleted_count": 1,
         "short_comment_count": 2,
+        "single_word_count": 2,
+        "rows_removed_by_cleaning": 0,
     }
 
 

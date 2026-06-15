@@ -5,6 +5,7 @@ import pandas as pd
 from reviewradar.annotation.annotation_dataset_builder import (
     ANNOTATION_COLUMNS,
     ANNOTATION_METADATA_COLUMNS,
+    ANNOTATION_NOTE_LABELS,
     build_annotation_dataset,
     write_annotation_guidelines,
 )
@@ -68,6 +69,10 @@ def test_build_annotation_dataset_preserves_metadata_and_adds_empty_label_column
     assert dataset.loc[0, "sentiment_label"] == ""
     assert dataset.loc[0, "aspect_label"] == ""
     assert dataset.loc[0, "review_notes"] == ""
+    for label in ANNOTATION_NOTE_LABELS:
+        col = f"is_{label.lower().replace(' ', '_')}"
+        assert col in dataset.columns
+        assert dataset.loc[0, col] == 0 or dataset.loc[0, col] == ""
     assert "extra_column" not in dataset.columns
 
 

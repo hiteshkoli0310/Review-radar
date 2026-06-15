@@ -1,0 +1,24 @@
+{
+  "annotation_readiness": "READY",
+  "rows_before_cleanup": 3918,
+  "rows_after_cleanup": 3909,
+  "rows_removed": 9,
+  "removed_by_translation_failure": 0,
+  "removed_by_final_cleanup": 9,
+  "all_comments_english": "False",
+  "language_distribution": {
+    "english": 3622,
+    "hinglish": 226,
+    "unknown": 31,
+    "mixed_malayalam_english": 6,
+    "romanized_malayalam": 6,
+    "tamil": 5,
+    "malayalam": 4,
+    "kannada": 3,
+    "mixed_kannada_english": 3,
+    "mixed_tamil_english": 2,
+    "gujarati": 1
+  },
+  "minimum_cleaned_length_chars": 3,
+  "minimum_cleaned_word_count": 2
+}

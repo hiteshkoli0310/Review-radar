@@ -22,12 +22,6 @@ ANNOTATION_METADATA_COLUMNS = [
     "detected_language",
 ]
 
-ANNOTATION_COLUMNS = [
-    "sentiment_label",
-    "aspect_label",
-    "review_notes",
-]
-
 SENTIMENT_LABELS = ["Positive", "Neutral", "Negative"]
 ASPECT_LABELS = [
     "Gaming",
@@ -40,8 +34,23 @@ ASPECT_LABELS = [
     "Purchase Intent",
     "Software",
     "Hardware",
+    "Spam",
+    "Support",
     "Other",
 ]
+ANNOTATION_NOTE_LABELS = [
+    "Ambiguous",
+    "Future Demand",
+    "Language Error",
+    "Question",
+    "Unrelated",
+]
+
+ANNOTATION_COLUMNS = [
+    "sentiment_label",
+    "aspect_label",
+    "review_notes",
+] + [f"is_{label.lower().replace(' ', '_')}" for label in ANNOTATION_NOTE_LABELS]
 
 
 def build_annotation_dataset(sample: pd.DataFrame) -> pd.DataFrame:
@@ -60,7 +69,7 @@ def build_annotation_dataset(sample: pd.DataFrame) -> pd.DataFrame:
 def save_annotation_dataset(dataset: pd.DataFrame, output_path: Path) -> Path:
     """Save an annotation dataset template as CSV."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    dataset.to_csv(output_path, index=False, encoding="utf-8")
+    dataset.to_csv(output_path, index=False, encoding="utf-8-sig")
     logger.info("Saved annotation dataset to %s", output_path)
     return output_path
 
@@ -73,9 +82,27 @@ def write_annotation_guidelines(output_path: Path) -> Path:
     return output_path
 
 
+def _note_labels_docs() -> str:
+    docs = ""
+    for label in ANNOTATION_NOTE_LABELS:
+        if label == "Ambiguous":
+            docs += "### Ambiguous\n\nUse when the comment's sentiment or aspect is unclear or could reasonably be interpreted multiple ways.\n\nExample: \"It's okay I guess\" -> Ambiguous\n\n"
+        elif label == "Future Demand":
+            docs += "### Future Demand\n\nUse when the comment expresses intent to buy, anticipation for a future product, demand for a feature, or desire for a product release.\n\nExample: \"Can't wait for this to launch\" -> Future Demand\n\n"
+        elif label == "Language Error":
+            docs += "### Language Error\n\nUse when the comment has broken language (translation artifacts, garbled text, mixed languages) that makes sentiment or aspect classification unreliable.\n\nExample: \"dhe ipo poy eduthond van athil irunnn kanunnn\" -> Language Error\n\n"
+        elif label == "Question":
+            docs += "### Question\n\nUse when the comment is structurally a question — typically maps to Neutral sentiment unless the question implies strong positive or negative framing.\n\nExample: \"Does this support 4K?\" -> Question\n\n"
+        elif label == "Unrelated":
+            docs += "### Unrelated\n\nUse when the comment content is off-topic, does not discuss the product, or is unrelated to the video's subject matter.\n\nExample: \"Nice video\" -> Unrelated\n\n"
+    return docs
+
+
 def _guidelines_text() -> str:
     sentiment_labels = "\n".join(f"- {label}" for label in SENTIMENT_LABELS)
     aspect_labels = "\n".join(f"- {label}" for label in ASPECT_LABELS)
+    note_labels = "\n".join(f"- {label}" for label in ANNOTATION_NOTE_LABELS)
+    note_docs = _note_labels_docs()
     return f"""# ReviewRadar Annotation Guidelines
 
 Use these guidelines to label each comment manually. Label the comment as written,
@@ -188,6 +215,22 @@ physical components.
 
 Example: "The joystick feels cheap" -> Hardware
 
+### Spam
+
+Use for promotional content, solicitation, gibberish, irrelevant self-promotion, or
+comments that do not contribute meaningful discussion about the product.
+
+Examples:
+- "Bhai please give steam deck please dedo" -> Spam
+- "Switch 2" -> Spam (if standalone, no evaluation)
+
+### Support
+
+Use for customer service experiences, warranty claims, return/replacement requests,
+technical support interactions, or service quality.
+
+Example: "Anna phone kodi nanu Swiggy" -> Support
+
 ### Other
 
 Use when no listed aspect fits or the comment is too vague to assign a meaningful
@@ -195,10 +238,13 @@ aspect.
 
 Example: "Nice" -> Other
 
-## Notes
+## Allowed Note Labels
 
-- Do not change `comment_text` or `cleaned_comment_text`.
-- Leave `review_notes` blank unless you need to explain ambiguity.
-- Use exact label spelling from the allowed labels.
-- If a comment is spam or unclear, still assign the best sentiment/aspect label you can.
+{note_labels}
+
+Choose zero or one note label to add additional context. Leave blank if the comment
+does not fit any note category.
+
+{note_docs}
 """
+

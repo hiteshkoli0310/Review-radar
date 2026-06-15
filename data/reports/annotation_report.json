@@ -1,0 +1,8 @@
+{
+  "total_rows": 300,
+  "labeled_rows": 0,
+  "missing_sentiment_labels": 300,
+  "missing_aspect_labels": 300,
+  "sentiment_counts": {},
+  "aspect_counts": {}
+}

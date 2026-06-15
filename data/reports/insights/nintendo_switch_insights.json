@@ -1,0 +1,391 @@
+{
+  "product": "Nintendo Switch",
+  "total_comments": 1564,
+  "sentiment_distribution": {
+    "neutral": {
+      "count": 785,
+      "pct": 50.2
+    },
+    "positive": {
+      "count": 436,
+      "pct": 27.9
+    },
+    "negative": {
+      "count": 343,
+      "pct": 21.9
+    }
+  },
+  "competitor_mentions": [
+    {
+      "competitor": "Switch",
+      "mentions": 581
+    },
+    {
+      "competitor": "Nintendo",
+      "mentions": 316
+    },
+    {
+      "competitor": "Ps5",
+      "mentions": 64
+    },
+    {
+      "competitor": "Steam Deck",
+      "mentions": 25
+    },
+    {
+      "competitor": "Xbox",
+      "mentions": 19
+    },
+    {
+      "competitor": "Ps4",
+      "mentions": 13
+    },
+    {
+      "competitor": "Playstation",
+      "mentions": 13
+    },
+    {
+      "competitor": "Mobile",
+      "mentions": 9
+    },
+    {
+      "competitor": "Android",
+      "mentions": 4
+    },
+    {
+      "competitor": "Rog Ally",
+      "mentions": 4
+    }
+  ],
+  "sample_comments": {
+    "positive": [
+      "farewell to you, eddie, really.",
+      "nintendo switch 2 \u274c nintendo connect \u2705",
+      "bro i'm gonna be getting a switch 2 until the switch 40 comes bro\ud83d\ude4f\ud83e\udd40",
+      "damn its felt so good me as a 9 year old getting my switch 2 in december 9th 2025 i ran upstairs to my bed and charged my switch then i started playing i planned to play my minecraft before i sign in my acc bc i already had a switch 1 i was already sorted out it was 9:00pm anyway so i did have no choice but to play my game card for that time",
+      "nintendo switch 2 boot v2 \ud83e\udee1 play store \ud83e\udee1 app store \ud83e\udee1"
+    ],
+    "neutral": [
+      "is it suitable for creating youtube streaming videos?",
+      "so satisfying \ud83c\udf89",
+      "i have that",
+      "you switch 2 you adi\u00f3s adi\u00f3s",
+      "c'\u00e8 l'ho tutte le nintendo \ud83d\ude0d\ud83d\udc4d"
+    ],
+    "negative": [
+      "why buying a switch 2 if u can do everything on ur modded oled",
+      "i hate my mom because she didnt buy me one\ud83d\ude21",
+      "those big borders make me want to puke \ud83d\ude05 especially as they left it in to shrink them with the next version",
+      "\ud83d\ude22gentlemen, i won't be able to do it.",
+      "can\u2019t wait for the new switch 2 to come out"
+    ]
+  },
+  "topic_insights": {
+    "positive": [
+      {
+        "phrase": "switch",
+        "score": 83.27,
+        "count": 299,
+        "examples": [
+          "nintendo switch 2 \u274c nintendo connect \u2705",
+          "bro i'm gonna be getting a switch 2 until the switch 40 comes bro\ud83d\ude4f\ud83e\udd40",
+          "damn its felt so good me as a 9 year old getting my switch 2 in december 9th 2025 i ran upstairs to my bed and charged my switch then i started playing i planned to play my minecraft before i sign in my acc bc i already had a switch 1 i was already sorted out it was 9:00pm anyway so i did have no choice but to play my game card for that time"
+        ]
+      },
+      {
+        "phrase": "nintendo",
+        "score": 40.8,
+        "count": 165,
+        "examples": [
+          "nintendo switch 2 \u274c nintendo connect \u2705",
+          "nintendo switch 2 boot v2 \ud83e\udee1 play store \ud83e\udee1 app store \ud83e\udee1",
+          "i have nintendo switch 2 too"
+        ]
+      },
+      {
+        "phrase": "nintendo switch",
+        "score": 35.4,
+        "count": 119,
+        "examples": [
+          "nintendo switch 2 \u274c nintendo connect \u2705",
+          "nintendo switch 2 boot v2 \ud83e\udee1 play store \ud83e\udee1 app store \ud83e\udee1",
+          "i have nintendo switch 2 too"
+        ]
+      },
+      {
+        "phrase": "games",
+        "score": 14.56,
+        "count": 63,
+        "examples": [
+          "i already have a switch lite, i just want to make sure that we can play online games too.",
+          "bro i love your videos only one thing i want from you that a video of diffrentent games cds and cards of nintendo switch",
+          "hey bro i have a query.i am buying nintendo switch lite jailbreak without checking getting it delivered what things should i keep in mind.he is saying that he will get the console modded and add 10-12 games as well its it safe"
+        ]
+      },
+      {
+        "phrase": "oled",
+        "score": 10.96,
+        "count": 30,
+        "examples": [
+          "i rlly want a nintendo switch oled cause i think its good enough for me\ud83d\ude0a",
+          "i have oled switch but watching this\ud83d\ude02\ud83d\ude02",
+          "i do gaming in my ps5 and my nintendo switch oled and i have my own tablet\ud83d\ude0a"
+        ]
+      },
+      {
+        "phrase": "bro",
+        "score": 9.92,
+        "count": 46,
+        "examples": [
+          "bro i'm gonna be getting a switch 2 until the switch 40 comes bro\ud83d\ude4f\ud83e\udd40",
+          "my dad bought one for me and my brother for christmas and it\u2019s gonna come before january 1st",
+          "brother muche nintendo switch lite tetijiye my ko bhut good feels is"
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 9.42,
+        "count": 38,
+        "examples": [
+          "gotta be honest i just got one and i was drinking and my girl had a friend over and i let them set it up while i kept unboxing and hooking shit up. had no idea there was a first start screen lol",
+          "i just got ittttt its so cool",
+          "i already have a switch lite, i just want to make sure that we can play online games too."
+        ]
+      },
+      {
+        "phrase": "want",
+        "score": 9.4,
+        "count": 32,
+        "examples": [
+          "i told my dad that i wanted a nintendo switch and he said maybe he will buy it for me pray for me guys",
+          "i rlly want a nintendo switch oled cause i think its good enough for me\ud83d\ude0a",
+          "i already have a switch lite, i just want to make sure that we can play online games too."
+        ]
+      },
+      {
+        "phrase": "ps5",
+        "score": 9.39,
+        "count": 31,
+        "examples": [
+          "bro i want ps 5 i never used ps5",
+          "brother meh ps5 pai gaming do are",
+          "brother compare nhi do sakte in dono ko kyun ke brother nintendo switch ka khud ka hardware wagera he jisse koi and device nhi want jese ke ps portal ko ps5 hi want and brother i to playstation fan boy hoon but i bas tell rha hoon"
+        ]
+      },
+      {
+        "phrase": "play",
+        "score": 9.1,
+        "count": 57,
+        "examples": [
+          "damn its felt so good me as a 9 year old getting my switch 2 in december 9th 2025 i ran upstairs to my bed and charged my switch then i started playing i planned to play my minecraft before i sign in my acc bc i already had a switch 1 i was already sorted out it was 9:00pm anyway so i did have no choice but to play my game card for that time",
+          "nintendo switch 2 boot v2 \ud83e\udee1 play store \ud83e\udee1 app store \ud83e\udee1",
+          "i\u2019m playing it right now lol"
+        ]
+      }
+    ],
+    "negative": [
+      {
+        "phrase": "switch",
+        "score": 33.86,
+        "count": 142,
+        "examples": [
+          "why buying a switch 2 if u can do everything on ur modded oled",
+          "can\u2019t wait for the new switch 2 to come out",
+          "w kiss my ass switch my bad\ud83d\ude05\ud83d\ude22\ud83d\ude02\u2764\ud83c\udf89"
+        ]
+      },
+      {
+        "phrase": "nintendo",
+        "score": 13.66,
+        "count": 45,
+        "examples": [
+          "it's already a nintendo chip, somehow judging by the sound.",
+          "if hamare pas ps5 not is to ps portal to gaya less se and nintendo switch me to some connect bhi nhi to do parata is",
+          "but brother nintendo switch anime fans for achha he because isme pokemon or dragon ball and other animes ki games chalti he"
+        ]
+      },
+      {
+        "phrase": "don",
+        "score": 10.86,
+        "count": 39,
+        "examples": [
+          "i don\u2019t have a switch lite. can you gift it to me pls\ud83d\ude22",
+          "brother please anyone tell that this ps5 se this achha is or nhi don't hate because me new gamer am",
+          "i don't know about others but i personally like black color."
+        ]
+      },
+      {
+        "phrase": "games",
+        "score": 10.76,
+        "count": 38,
+        "examples": [
+          "brother insta pe direct msg nhi ja rha h. only people u already following can direct msg. brother need help with how to download games on jailbroken switch oled.",
+          "but brother nintendo switch anime fans for achha he because isme pokemon or dragon ball and other animes ki games chalti he",
+          "this isn\u2019t for those who are into aaa games"
+        ]
+      },
+      {
+        "phrase": "console",
+        "score": 8.74,
+        "count": 34,
+        "examples": [
+          "still bad console",
+          "it would be an s teir console only if its price in india is less than 45k",
+          "first, the switch 2 or steam deck or rog ally should not be compared directly with a home console like the ps5 or xbox. none of them are designed to deliver the level of performance comparable to home console. the switch 2\u2019s success is driven less by raw power and more by its combination of portability, convenience, and strong first-party exclusives. it is not simply a case of the hardware being underpowered. in fact, the switch 2 is capable enough to handle demanding titles like resident evil 9 and pragmata better than the steam deck. look up youtube videos. the bigger limitation is often whether studios choose to release their games on nintendo hardware at all, or whether older titles receive proper updates and optimization for the new system. that is similar to how there are still many playstation-exclusive titles that you cannot access on the steam deck. that said more third-party titles are now making their way to the switch 2."
+        ]
+      },
+      {
+        "phrase": "oled",
+        "score": 8.52,
+        "count": 31,
+        "examples": [
+          "why buying a switch 2 if u can do everything on ur modded oled",
+          "brother insta pe direct msg nhi ja rha h. only people u already following can direct msg. brother need help with how to download games on jailbroken switch oled.",
+          "in t\u00fcrkiye switch oled is 18.889 turkish lira but a switch 1 is 35.000 turkish lira. inflation sucks."
+        ]
+      },
+      {
+        "phrase": "better",
+        "score": 8.22,
+        "count": 24,
+        "examples": [
+          "it\u2019s a boot theme, it can\u2019t get much better or worse.",
+          "we cant play lite with tv normal one far better even v2 version has better battery life then lite",
+          "first, the switch 2 or steam deck or rog ally should not be compared directly with a home console like the ps5 or xbox. none of them are designed to deliver the level of performance comparable to home console. the switch 2\u2019s success is driven less by raw power and more by its combination of portability, convenience, and strong first-party exclusives. it is not simply a case of the hardware being underpowered. in fact, the switch 2 is capable enough to handle demanding titles like resident evil 9 and pragmata better than the steam deck. look up youtube videos. the bigger limitation is often whether studios choose to release their games on nintendo hardware at all, or whether older titles receive proper updates and optimization for the new system. that is similar to how there are still many playstation-exclusive titles that you cannot access on the steam deck. that said more third-party titles are now making their way to the switch 2."
+        ]
+      },
+      {
+        "phrase": "like",
+        "score": 8.08,
+        "count": 37,
+        "examples": [
+          "first, the switch 2 or steam deck or rog ally should not be compared directly with a home console like the ps5 or xbox. none of them are designed to deliver the level of performance comparable to home console. the switch 2\u2019s success is driven less by raw power and more by its combination of portability, convenience, and strong first-party exclusives. it is not simply a case of the hardware being underpowered. in fact, the switch 2 is capable enough to handle demanding titles like resident evil 9 and pragmata better than the steam deck. look up youtube videos. the bigger limitation is often whether studios choose to release their games on nintendo hardware at all, or whether older titles receive proper updates and optimization for the new system. that is similar to how there are still many playstation-exclusive titles that you cannot access on the steam deck. that said more third-party titles are now making their way to the switch 2.",
+          "i don't know about others but i personally like black color.",
+          "good video banaya h, but i feel you are missing were point, like i have a beast pc, and use steam i bought nintendo for my pre-teen kids also sometimes if flight mei are, yaa pc but baithne ka maan no are to casual gaming k liye badhiya h i agree 1 lakh spend to do is too much and its only good as secondary device jaise my paas mac pro h, lakin google chromebook lia , halka when i travel,"
+        ]
+      },
+      {
+        "phrase": "just",
+        "score": 7.93,
+        "count": 29,
+        "examples": [
+          "indian tech youtubers= spreading fake, and false information just for views",
+          "iam going to buy switch 2 because l already have ps5 xbox x and an ps 4 just want an handhel when you traveling and want to playgame .",
+          "this is just waste of money"
+        ]
+      },
+      {
+        "phrase": "price",
+        "score": 7.57,
+        "count": 17,
+        "examples": [
+          "please drop the price",
+          "it would be an s teir console only if its price in india is less than 45k",
+          "it's going for 45k now, price has stabilized. i will wait for the lite version though."
+        ]
+      }
+    ],
+    "most_discussed": [
+      {
+        "phrase": "switch",
+        "score": 186.28,
+        "count": 581,
+        "examples": [
+          "why buying a switch 2 if u can do everything on ur modded oled",
+          "you switch 2 you adi\u00f3s adi\u00f3s",
+          "nintendo switch 2 \u274c nintendo connect \u2705"
+        ]
+      },
+      {
+        "phrase": "nintendo",
+        "score": 104.88,
+        "count": 316,
+        "examples": [
+          "nintendo switch 2 \u274c nintendo connect \u2705",
+          "c'\u00e8 l'ho tutte le nintendo \ud83d\ude0d\ud83d\udc4d",
+          "nintendo switch 2 boot v2 \ud83e\udee1 play store \ud83e\udee1 app store \ud83e\udee1"
+        ]
+      },
+      {
+        "phrase": "nintendo switch",
+        "score": 69.24,
+        "count": 188,
+        "examples": [
+          "nintendo switch 2 \u274c nintendo connect \u2705",
+          "nintendo switch 2 boot v2 \ud83e\udee1 play store \ud83e\udee1 app store \ud83e\udee1",
+          "la nintendo switch je n'ai pas jeu la nintendo switch 2"
+        ]
+      },
+      {
+        "phrase": "games",
+        "score": 35.6,
+        "count": 117,
+        "examples": [
+          "then realising that is has no games",
+          "brother insta pe direct msg nhi ja rha h. only people u already following can direct msg. brother need help with how to download games on jailbroken switch oled.",
+          "i already have a switch lite, i just want to make sure that we can play online games too."
+        ]
+      },
+      {
+        "phrase": "oled",
+        "score": 34.0,
+        "count": 86,
+        "examples": [
+          "why buying a switch 2 if u can do everything on ur modded oled",
+          "masih bingung mau beli sekarang atau nunggu versi oled atau version 2 atau versi lite nya \ud83d\ude02",
+          "i rlly want a nintendo switch oled cause i think its good enough for me\ud83d\ude0a"
+        ]
+      },
+      {
+        "phrase": "like",
+        "score": 31.29,
+        "count": 100,
+        "examples": [
+          "67k like",
+          "the intro is like when you\u2019re in the army and that the soldiers are doing the military percussions.",
+          "first, the switch 2 or steam deck or rog ally should not be compared directly with a home console like the ps5 or xbox. none of them are designed to deliver the level of performance comparable to home console. the switch 2\u2019s success is driven less by raw power and more by its combination of portability, convenience, and strong first-party exclusives. it is not simply a case of the hardware being underpowered. in fact, the switch 2 is capable enough to handle demanding titles like resident evil 9 and pragmata better than the steam deck. look up youtube videos. the bigger limitation is often whether studios choose to release their games on nintendo hardware at all, or whether older titles receive proper updates and optimization for the new system. that is similar to how there are still many playstation-exclusive titles that you cannot access on the steam deck. that said more third-party titles are now making their way to the switch 2."
+        ]
+      },
+      {
+        "phrase": "bro",
+        "score": 30.75,
+        "count": 136,
+        "examples": [
+          "bro i'm gonna be getting a switch 2 until the switch 40 comes bro\ud83d\ude4f\ud83e\udd40",
+          "yo bro better pay us dem bills for copyright",
+          "my dad bought one for me and my brother for christmas and it\u2019s gonna come before january 1st"
+        ]
+      },
+      {
+        "phrase": "gta",
+        "score": 25.74,
+        "count": 48,
+        "examples": [
+          "what is jail break or nintendo gta v rdr 2 chala payga?",
+          "bro comparing san andreas with gta v",
+          "bhi gta v \u0686\u0644 kak"
+        ]
+      },
+      {
+        "phrase": "brother",
+        "score": 24.41,
+        "count": 58,
+        "examples": [
+          "my dad bought one for me and my brother for christmas and it\u2019s gonna come before january 1st",
+          "brother muche nintendo switch lite tetijiye my ko bhut good feels is",
+          "brother insta pe direct msg nhi ja rha h. only people u already following can direct msg. brother need help with how to download games on jailbroken switch oled."
+        ]
+      },
+      {
+        "phrase": "ps5",
+        "score": 23.59,
+        "count": 64,
+        "examples": [
+          "u can buy 5 ps4 for one of these or one ps5 for 50$ more",
+          "bro i want ps 5 i never used ps5",
+          "ps5 tv se connect are sakta is"
+        ]
+      }
+    ]
+  }
+}
