@@ -1,6 +1,8 @@
 <div align="center">
   <h1>ReviewRadar</h1>
   <strong>Consumer Intelligence Platform — NLP-Driven Sentiment & Aspect Mining from YouTube Product Reviews</strong>
+  <br>
+  <a href="https://review-radar-dashboard.streamlit.app">https://review-radar-dashboard.streamlit.app</a>
 </div>
 
 <br>
