@@ -2,7 +2,6 @@
   <h1>ReviewRadar</h1>
   <strong>AI-Powered Sentiment Analysis on YouTube Product Reviews</strong>
   <br>
-  <a href="https://review-radar-dashboard.streamlit.app">https://review-radar-dashboard.streamlit.app</a>
 </div>
 
 <br>
